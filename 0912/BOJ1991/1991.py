@@ -41,7 +41,7 @@ left = []
 right = []
 tree = {}
 for i in range(N):
-    p, cl, cr = map(str, sys.stdin.readline().split())
+    p, cl, cr = map(str, input().split())
     tree[p] = Node(item=p, lc=cl, rc=cr)
 preorder(tree['A'])
 print()

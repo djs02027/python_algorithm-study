@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de678be4-bd80-4260-b368-841877c6fb5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +11,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0909/BOJ10971/10971.py">
+        <entry file="file://$PROJECT_DIR$/0913/BOJ1068/1068.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="396">
+              <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0913/BOJ1068/1068(2).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -24,17 +33,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0912/BOJ1991/1991.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="310">
+              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0912/BOJ1991/input.txt">
+        <entry file="file://$PROJECT_DIR$/0913/BOJ1068/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="44">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -47,14 +56,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0912/BOJ1991/input.txt" />
-        <option value="$PROJECT_DIR$/0912/BOJ1991/1991.py" />
+        <option value="$PROJECT_DIR$/0913/BOJ1068/1068.py" />
+        <option value="$PROJECT_DIR$/0913/BOJ1068/input.txt" />
+        <option value="$PROJECT_DIR$/0913/BOJ1068/1068(2).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="140" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="906" />
   </component>
@@ -79,12 +89,6 @@
             <path>
               <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
               <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="0909" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ10971" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
               <item name="0912" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -93,6 +97,11 @@
               <item name="0912" type="462c0819:PsiDirectoryNode" />
               <item name="BOJ1991" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="0913" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,7 +109,6 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -116,7 +124,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.1991">
-    <configuration name="10971" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1068" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0909/BOJ10971" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0913/BOJ1068" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0909/BOJ10971/10971.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0913/BOJ1068/1068.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +145,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1991" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="1068(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0913/BOJ1068" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0913/BOJ1068/1068(2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1991" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +189,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10971" />
+        <item itemvalue="Python.1991" />
+        <item itemvalue="Python.1068(2)" />
+        <item itemvalue="Python.1068" />
       </list>
     </recent_temporary>
   </component>
@@ -169,11 +200,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de678be4-bd80-4260-b368-841877c6fb5c" name="Default Changelist" comment="" />
-      <created>1631419678736</created>
+      <changelist id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
+      <created>1631538350038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1631419678736</updated>
+      <updated>1631538350038</updated>
     </task>
     <servers />
   </component>
@@ -181,75 +212,51 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27548808" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27548808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0912/BOJ1991/1991.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0912/BOJ1991/1991.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0912/BOJ1991/1991.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0912/BOJ1991/1991.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0912/BOJ1991/1991.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0909/BOJ10971/10971.py">
+    <entry file="file://$PROJECT_DIR$/0913/BOJ1068/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0912/BOJ1991/input.txt">
+    <entry file="file://$PROJECT_DIR$/0913/BOJ1068/1068.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="396">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0913/BOJ1068/1068(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0912/BOJ1991/1991.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="310">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
         </state>
       </provider>
     </entry>
