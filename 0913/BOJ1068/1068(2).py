@@ -13,7 +13,7 @@ for i in range(N):
         continue
     if node[i] in tree:
         tree[node[i]].append(i)
-
+        print(tree)
     else:
         tree[node[i]] = [i]
 cnt=0
