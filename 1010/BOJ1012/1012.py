@@ -1,6 +1,7 @@
 import sys
 sys.setrecursionlimit(10**6)
 sys.stdin = open('input.txt')
+
 def BFS(x,y):
 
     for i in range(4):
@@ -26,6 +27,7 @@ for tc in range(1, T + 1):
 
     deltax = [1, -1, 0, 0]
     deltay = [0, 0, -1, 1]
+
     cnt=0
     for i in range(N):
         for j in range(M):
