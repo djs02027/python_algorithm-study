@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/스터디.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/스터디.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1010/BOJ1012/1012.py" beforeDir="false" afterPath="$PROJECT_DIR$/1010/BOJ1012/1012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1018/BOJ2493/2493-(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/1018/BOJ2493/2493-(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,91 +17,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225.py">
+        <entry file="file://$PROJECT_DIR$/1011/BOJ16938/16938(2).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="396">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ex.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1013X/BOJ15900/15900.py">
+        <entry file="file://$PROJECT_DIR$/1015/BOJ1700/1700.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            <state relative-caret-position="408">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1019/BOJ17225/input.txt">
+        <entry file="file://$PROJECT_DIR$/1011/BOJ16938/16938.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="374">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1018/BOJ2493/2493-(2).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1018/BOJ2493/input.txt">
+        <entry file="file://$PROJECT_DIR$/1015/BOJ1700/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1018/BOJ2493/2493.py">
+        <entry file="file://$PROJECT_DIR$/1011/BOJ16938/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1009X/BOJ1697/1697.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1013X/BOJ15900/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1012/BOJ18429/18429.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225-(2).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            <state relative-caret-position="22">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -118,11 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/재귀/순열_재귀.py" />
-        <option value="$PROJECT_DIR$/재귀/순열 재귀2.py" />
-        <option value="$PROJECT_DIR$/재귀/순열_재귀1.py" />
-        <option value="$PROJECT_DIR$/1003/input.txt" />
-        <option value="$PROJECT_DIR$/1001/BOJ1874/1874-2.py" />
         <option value="$PROJECT_DIR$/1001/BOJ1874/input.txt" />
         <option value="$PROJECT_DIR$/1003/s1.py" />
         <option value="$PROJECT_DIR$/1001/BOJ1874/1874.py" />
@@ -155,7 +113,6 @@
         <option value="$PROJECT_DIR$/1019/BOJ17225/input.txt" />
         <option value="$PROJECT_DIR$/1018/BOJ2493/input.txt" />
         <option value="$PROJECT_DIR$/1019/BOJ17225/17225.py" />
-        <option value="$PROJECT_DIR$/ex.py" />
         <option value="$PROJECT_DIR$/1018/BOJ2493/2493-(2).py" />
         <option value="$PROJECT_DIR$/1019/BOJ17225/17225-(2).py" />
         <option value="$PROJECT_DIR$/1011/BOJ18429/input.txt" />
@@ -169,12 +126,17 @@
         <option value="$PROJECT_DIR$/1019X/BOJ17225/17225.py" />
         <option value="$PROJECT_DIR$/1013X/BOJ15900/15900.py" />
         <option value="$PROJECT_DIR$/1013X/BOJ15900/input.txt" />
+        <option value="$PROJECT_DIR$/1011/BOJ16938/input.txt" />
+        <option value="$PROJECT_DIR$/1011/BOJ16938/16938(2).py" />
+        <option value="$PROJECT_DIR$/ex.py" />
+        <option value="$PROJECT_DIR$/1011/BOJ16938/16938.py" />
+        <option value="$PROJECT_DIR$/1015/BOJ1700/input.txt" />
+        <option value="$PROJECT_DIR$/1015/BOJ1700/1700.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="763" />
-    <option name="y" value="57" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -205,6 +167,28 @@
             <path>
               <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
               <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1010" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1010" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ1012" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1011" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1011" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ16938" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
               <item name="1012" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -227,6 +211,17 @@
             <path>
               <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
               <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1015" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="1015" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ1700" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
               <item name="1018" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -245,6 +240,11 @@
               <item name="스터디" type="462c0819:PsiDirectoryNode" />
               <item name="1019" type="462c0819:PsiDirectoryNode" />
               <item name="BOJ17225" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
+              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="재귀" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,28 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.15900 (1)">
-    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1010/BOJ1012" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1010/BOJ1012/1012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1700">
     <configuration name="15900 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17225 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16938" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +316,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1019X/BOJ17225" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1011/BOJ16938" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1019X/BOJ17225/17225.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1011/BOJ16938/16938.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17225-(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16938(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1019X/BOJ17225" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1011/BOJ16938" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1019X/BOJ17225/17225-(2).py" />
+      <option name="SCRIPT_NAME" value="C:\SSAFY Python\알고리즘\스터디\1011\BOJ16938\16938-(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2493-(2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1700" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -379,11 +358,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1018/BOJ2493" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1015/BOJ1700" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018/BOJ2493/2493-(2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1015/BOJ1700/1700.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,11 +394,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1700" />
+        <item itemvalue="Python.ex" />
+        <item itemvalue="Python.16938(2)" />
+        <item itemvalue="Python.16938" />
         <item itemvalue="Python.15900 (1)" />
-        <item itemvalue="Python.17225 (1)" />
-        <item itemvalue="Python.17225-(2)" />
-        <item itemvalue="Python.2493-(2)" />
-        <item itemvalue="Python.1012" />
       </list>
     </recent_temporary>
   </component>
@@ -425,15 +425,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="763" y="57" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8444688" visible="true" weight="0.23076923" />
-      <window_info id="Structure" order="1" sideWeight="0.15553121" side_tool="true" visible="true" weight="0.23076923" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.23076923" />
+      <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20920044" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27382258" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49893162" visible="true" weight="0.20920044" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27272728" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24972618" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50106835" side_tool="true" visible="true" weight="0.20920044" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22234392" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32968238" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.113804005" />
+      <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" visible="true" weight="0.113804005" />
+      <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20824295" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2733189" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
@@ -444,7 +463,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1134,6 +1153,26 @@
           <line>45</line>
           <option name="timeStamp" value="542" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1011/BOJ16938/16938.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1015/BOJ1700/1700.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1015/BOJ1700/1700.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1015/BOJ1700/1700.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="567" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1145,57 +1184,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/재귀/순열_for문1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/재귀/순열_for문2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/재귀/순열_재귀1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/재귀/순열 재귀2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0909/BOJ10971/10971.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0909/BOJ10971/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1004">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1004/BOJ1874/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1002/BOJ1052/1052-(3).py" />
     <entry file="file://$PROJECT_DIR$/1003/BOJ2304/2304.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1366,23 +1354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1010/BOJ1012/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1009X/BOJ1697/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1397,13 +1368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1010/BOJ1012/1012.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1012/BOJ18429/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -1411,51 +1375,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1012/BOJ18429/18429.py">
+    <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1009X/BOJ1697/1697.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1018/BOJ2493/2493.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="638">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1019/BOJ17225/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225-(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1018/BOJ2493/2493-(2).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
+        <state relative-caret-position="550">
           <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
@@ -1467,6 +1403,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1018/BOJ2493/2493.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1013X/BOJ15900/15900.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1010/BOJ1012/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1009X/BOJ1697/1697.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/재귀/순열_for문1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/재귀/순열_for문2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1010/BOJ1012/1012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/재귀/순열_재귀1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/재귀/순열 재귀2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1013X/BOJ15900/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1474,10 +1465,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1013X/BOJ15900/15900.py">
+    <entry file="file://$PROJECT_DIR$/1012/BOJ18429/18429.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        <state relative-caret-position="308">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1019/BOJ17225/17225-(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1011/BOJ16938/16938(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1011/BOJ16938/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1011/BOJ16938/16938.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1015/BOJ1700/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1015/BOJ1700/1700.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
         </state>
       </provider>
     </entry>
