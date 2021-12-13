@@ -19,25 +19,41 @@
 3 9
 1 2 3 4 1 1 1 1 3
 
+3 14
+1 4 3 2 5 4 3 2 5 3 4 2 3 4
 '''
 import sys
 
 sys.stdin = open('input.txt')
 hole, used_cnt = map(int, input().split())
 order = list(map(int, input().split()))
-
+check_hole = []
 cnt = 0
 
-while order:
-    q = []
-    if len(order) >= hole:
-        for i in range(hole):
-            tmp = order.pop(0)
-            q.append(tmp)
-        for i in range(hole):
-            if i < len(order) and not order[i] in q:
-                cnt += 1
-    if len(order) < hole:
-        order.clear()
 
+def check(i):
+    target = 0
+    idx = -1
+    # 앞으로 안쓰이는 것이라면 뽑는다.
+    # 콘센트 꽃힌 번호중에 제일 멀리 있는 숫자를 뽑는다!!
+    # 모두 쓰이는 것이라면 가장 나중에 쓰이는 것을 뽑는다.
+    for ch in check_hole:
+        if ch not in order[i:]:
+            return ch
+        if idx < order[i:].index(ch):
+            target = ch
+            idx = order[i:].index(ch)
+
+    return target
+
+
+for i in range(used_cnt):
+    if len(check_hole) < hole:
+        if order[i] in check_hole:
+            continue
+        check_hole.append(order[i])
+
+    if order[i] not in check_hole:
+        check_hole[check_hole.index(check(i))] = order[i]
+        cnt += 1
 print(cnt)
