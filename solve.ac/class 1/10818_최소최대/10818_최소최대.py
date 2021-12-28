@@ -1,0 +1,5 @@
+T=int(input())
+arr=list(map(int,input().split()))
+minv=min(arr)
+maxv=max(arr)
+print(minv,maxv)
