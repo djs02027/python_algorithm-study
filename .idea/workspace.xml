@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/스터디.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/스터디.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-578956362">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="스터디" />
@@ -30,20 +42,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="-8">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -51,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state>
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -60,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기X.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
+            <state>
               <caret line="8" column="8" selection-start-line="7" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
@@ -69,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state>
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -144,11 +156,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="899" />
-    <option name="y" value="8" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="518" />
+    <option name="y" value="242" />
+    <option name="width" value="975" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -159,127 +171,34 @@
         <subPane>
           <expand>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 2" type="462c0819:PsiDirectoryNode" />
-              <item name="1436_영화감독숌" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - LIST1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="개념공부" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ4963" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="greedy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="greedy" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ1052" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="greedy" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ1700" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="greedy" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ12931" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ1874" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ2304" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ2493" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="스터디" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스터디" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ17073" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +209,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -322,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1436_영화감독">
+  <component name="RunManager" selected="Python.1018_체스판다시칠하기O">
     <configuration name="1018_체스판다시칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10950_,A+B-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1018_체스판다시칠하기O" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -373,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 1/10950_A+B-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 1/10950_A+B-3/10950_,A+B-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -428,13 +347,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.1018_체스판다시칠하기" />
+      <item itemvalue="Python.1018_체스판다시칠하기2" />
+      <item itemvalue="Python.1181_단어정렬" />
+      <item itemvalue="Python.1436_영화감독" />
+      <item itemvalue="Python.1018_체스판다시칠하기O" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1018_체스판다시칠하기O" />
         <item itemvalue="Python.1436_영화감독" />
         <item itemvalue="Python.1181_단어정렬" />
         <item itemvalue="Python.1018_체스판다시칠하기2" />
         <item itemvalue="Python.1018_체스판다시칠하기" />
-        <item itemvalue="Python.10950_,A+B-3" />
       </list>
     </recent_temporary>
   </component>
@@ -461,22 +387,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="899" y="8" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.31623933" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.15465961" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.28258488" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.16335227" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.26725084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24315444" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50213677" side_tool="true" weight="0.24424973" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22234273" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24431819" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2215909" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32858709" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -501,6 +426,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1365,11 +1293,6 @@
           <line>29</line>
           <option name="timeStamp" value="713" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="715" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1673,6 +1596,14 @@
     <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ12931/12931.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/694806583/builtins.py" />
     <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ1700/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1682,52 +1613,38 @@
     <entry file="file://$PROJECT_DIR$/모각코/stack/BOJ2304/2304.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state>
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기X.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
+        <state>
           <caret line="8" column="8" selection-start-line="7" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/694806583/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1312">
-          <caret line="4985" column="33" selection-start-line="4985" selection-start-column="29" selection-end-line="4985" selection-end-column="33" />
+        <state>
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="-8">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
