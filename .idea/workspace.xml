@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/min_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/min_max/min_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/min_max_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/min_max/min_max_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/구간합.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/구간합/구간합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/구간합.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/구간합/구간합.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +28,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="6" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="644" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="644" />
         </counts>
       </usages-collector>
     </session>
@@ -34,52 +56,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ1700/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ12931/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/stack/BOJ2304/2304.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/로또의 최고 순위와 최저 순위/로또의 최고순위와 최저순위.py">
+        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/색칠하기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="75">
+              <caret line="5" column="16" selection-start-line="3" selection-end-line="23" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
+        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/sample_input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="165">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/input.txt">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="240">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -87,17 +94,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기X.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="15">
               <caret line="8" column="8" selection-start-line="7" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/input.txt">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -117,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/구간합.py" />
         <option value="$PROJECT_DIR$/1213/2577.py" />
         <option value="$PROJECT_DIR$/1213/2675.py" />
         <option value="$PROJECT_DIR$/1213/2908.py" />
@@ -168,14 +174,14 @@
         <option value="$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/로또의 최고 순위와 최저 순위/로또의 최고순위와 최저순위.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/색칠하기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="698" />
-    <option name="y" value="106" />
-    <option name="width" value="975" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -192,35 +198,33 @@
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - LiST2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - LiST2" type="462c0819:PsiDirectoryNode" />
+              <item name="색칠하기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="개념공부" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,12 +247,15 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\색칠하기" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\SSAFY Python\알고리즘\스터디\solve.ac\class 1" />
-      <recent name="C:\SSAFY Python\알고리즘\스터디\모각코" />
-      <recent name="C:\SSAFY Python\알고리즘\스터디\queue" />
-      <recent name="C:\SSAFY Python\알고리즘\스터디\stack" />
-      <recent name="C:\SSAFY Python\알고리즘\스터디\greedy" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LIST1\전기버스" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LIST1\숫자카드" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LIST1\구간합" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LIST1\min_max" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,8 +270,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1018_체스판다시칠하기O">
-    <configuration name="1018_체스판다시칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.색칠하기">
+    <configuration name="색칠하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,11 +279,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\SSAFY Python\알고리즘\스터디\solve.ac\class 2\1018_체스판다시칠하기\1018_체스판다시칠하기X.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/색칠하기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,19 +377,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1018_체스판다시칠하기" />
       <item itemvalue="Python.1018_체스판다시칠하기2" />
       <item itemvalue="Python.1181_단어정렬" />
       <item itemvalue="Python.1436_영화감독" />
       <item itemvalue="Python.1018_체스판다시칠하기O" />
+      <item itemvalue="Python.색칠하기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.색칠하기" />
         <item itemvalue="Python.1018_체스판다시칠하기O" />
         <item itemvalue="Python.1436_영화감독" />
         <item itemvalue="Python.1181_단어정렬" />
         <item itemvalue="Python.1018_체스판다시칠하기2" />
-        <item itemvalue="Python.1018_체스판다시칠하기" />
       </list>
     </recent_temporary>
   </component>
@@ -409,20 +416,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="559" y="85" width="780" height="838" extended-state="0" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.31493944" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.34408602" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.16335227" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.16235632" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.26725084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24431819" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24712643" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2215909" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32858709" />
@@ -1237,82 +1244,82 @@
           <option name="timeStamp" value="606" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>3</line>
           <option name="timeStamp" value="664" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>13</line>
           <option name="timeStamp" value="698" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>14</line>
           <option name="timeStamp" value="699" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>15</line>
           <option name="timeStamp" value="700" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>18</line>
           <option name="timeStamp" value="702" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>19</line>
           <option name="timeStamp" value="703" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>21</line>
           <option name="timeStamp" value="704" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>17</line>
           <option name="timeStamp" value="705" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>16</line>
           <option name="timeStamp" value="706" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>20</line>
           <option name="timeStamp" value="707" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>23</line>
           <option name="timeStamp" value="708" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>25</line>
           <option name="timeStamp" value="709" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>26</line>
           <option name="timeStamp" value="710" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>24</line>
           <option name="timeStamp" value="711" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>22</line>
           <option name="timeStamp" value="712" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
           <line>29</line>
           <option name="timeStamp" value="713" />
         </line-breakpoint>
@@ -1362,20 +1369,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 1/1330_두수비교하기/1330_두수비교하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 1/1546_평균/1546_평균.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 1/2438_별찍기-1/2438_별찍기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1573,17 +1566,17 @@
     <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ1052/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.py">
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py">
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.txt">
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/모각코/tree/BOJ17073/BOJ17073.py">
@@ -1612,13 +1605,6 @@
     <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ12931/12931.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/694806583/builtins.py" />
     <entry file="file://$PROJECT_DIR$/모각코/greedy/BOJ1700/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1629,45 +1615,66 @@
     <entry file="file://$PROJECT_DIR$/모각코/stack/BOJ2304/2304.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/input.txt">
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/로또의 최고 순위와 최저 순위/로또의 최고순위와 최저순위.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기X.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="8" selection-start-line="7" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="240">
           <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/로또의 최고 순위와 최저 순위/로또의 최고순위와 최저순위.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기X.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="15">
+          <caret line="8" column="8" selection-start-line="7" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1181_단어정렬/1181_단어정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/sample_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/색칠하기/색칠하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="3" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
