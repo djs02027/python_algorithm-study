@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/min_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/min_max/min_max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/min_max_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/min_max/min_max_input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/구간합.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/구간합/구간합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/구간합.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/구간합/구간합.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/숫자카드.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/숫자카드/숫자카드.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/파이썬 SW문제해결 기본 - LIST1/전기버스.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +14,7 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -178,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -416,20 +409,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.34408602" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.16920027" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.16235632" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.16051136" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.26725084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24712643" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24573864" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2215909" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32858709" />
