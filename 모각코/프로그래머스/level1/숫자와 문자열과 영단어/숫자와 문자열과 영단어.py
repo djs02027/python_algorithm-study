@@ -1,5 +1,5 @@
 def solution(s):
-    result = []
+
     convertor = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
 
     for k, v in enumerate(convertor):
