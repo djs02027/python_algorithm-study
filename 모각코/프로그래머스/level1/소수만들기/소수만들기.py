@@ -1,30 +1,30 @@
-#시간초과
-
-def isPrime(x):
-    for i in range(2, int(x ** 0.5) + 1):
-
-        if x % i == 0:
-            return False
-    return True
+import math
+from itertools import combinations
 
 
 def solution(nums):
-    N = len(nums)
     count = 0
-    for i in range(1 << N):
-        tmp = []
-        for j in range(N + 1):
-            if i & (1 << j):
-                tmp.append(nums[j])
-        if len(tmp) > 3 and len(tmp) <= 2:
-            break
-        if len(tmp) == 3:
-            result = sum(tmp)
-            if result <= 2:
-                break
-            total = isPrime(result)
-            if total == True:
-                count += 1
+
+    combi = list(combinations(nums, 3))
+    total = []
+    for c in range(len(combi)):
+        cac = sum(combi[c])
+        total.append(cac)
+
+    n = 10000000
+    array = [True for i in range(n + 1)]
+
+    for i in range(2, int(math.sqrt(n)) + 1):
+        if array[i] == True:
+            j = 2
+            while i * j <= n:
+                array[i * j] = False
+                j += 1
+
+    for t in total:
+        if array[t] == True:
+            count += 1
 
     answer = count
+
     return answer
