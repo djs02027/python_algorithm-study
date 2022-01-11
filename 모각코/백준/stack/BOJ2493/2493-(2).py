@@ -12,15 +12,7 @@ arr = list(map(int, input().split()))
 tops = [0] * N
 
 stack = []
-# for i in range(len(arr)):
-#     while stack:
-#         if stack[-1][0] > arr[i]:
-#             tops[i] = i
-#             break
-#         else:
-#             stack.pop()
-#     stack.append([arr[i], i])
-# print(tops)
+
 for i in range(len(arr)):
     while stack:
         if stack[-1][0] > arr[i]:
