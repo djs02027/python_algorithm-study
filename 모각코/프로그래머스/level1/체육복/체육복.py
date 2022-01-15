@@ -53,6 +53,8 @@ def solution(n, lost, reserve):
     for i in range(1, len(checked)):
         if checked[i] == 0 or checked[i] == 1:
             total += 1
+    tmp=''
+
 
     answer = total
     return answer
