@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="10" />
           <entry key="project.open.time.4" value="14" />
@@ -41,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="114" />
-          <entry key="py" value="20020" />
+          <entry key="py" value="20197" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="114" />
-          <entry key="Python" value="20020" />
+          <entry key="Python" value="20197" />
         </counts>
       </usages-collector>
     </session>
@@ -96,11 +96,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="285">
+              <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
               <folding>
-                <marker date="1643461966212" expanded="true" signature="38:404" ph="..." />
-                <marker date="1643461966212" expanded="true" signature="497:498" ph="..." />
+                <marker date="1643462432530" expanded="true" signature="38:437" ph="..." />
+                <marker date="1643462432530" expanded="true" signature="530:531" ph="..." />
               </folding>
             </state>
           </provider>
@@ -203,9 +203,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="982" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -460,20 +460,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="786" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.39919356" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.31752872" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.31752872" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.375" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16477273" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1637931" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.22017045" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -1806,11 +1805,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="285">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
           <folding>
-            <marker date="1643461966212" expanded="true" signature="38:404" ph="..." />
-            <marker date="1643461966212" expanded="true" signature="497:498" ph="..." />
+            <marker date="1643462432530" expanded="true" signature="38:437" ph="..." />
+            <marker date="1643462432530" expanded="true" signature="530:531" ph="..." />
           </folding>
         </state>
       </provider>
