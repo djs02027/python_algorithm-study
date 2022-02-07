@@ -12,13 +12,16 @@ def solution(orders, course):
         for i in range(len(o)):
             order.append(o[i])
         orderlen = len(order)
-        totalcombi = []
+
         for i in range(2, orderlen + 1):
             totalcombi = (list(combinations(order, i)))
             for t in totalcombi:
                 courseone = ''.join(map(str, t))
                 if courseone in courselist:
                     cac[courseone] += 1
+
+
+
     print(cac)
     answer = []
     for c in course:
