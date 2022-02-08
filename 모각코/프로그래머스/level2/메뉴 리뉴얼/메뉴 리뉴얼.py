@@ -22,6 +22,8 @@ def solution(orders, course):
 
 
 
+
+
     print(cac)
     answer = []
     for c in course:
