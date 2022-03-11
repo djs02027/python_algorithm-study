@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +26,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
-          <entry key="py" value="216" />
+          <entry key="py" value="217" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="217" />
+          <entry key="Python" value="218" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,12 +56,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/타겟 넘버/타겟 넘버.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -197,117 +191,6 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
               <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="K번째의 수" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="다트 게임" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="로또의 최고 순위와 최저 순위" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="모의고사" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="문자열 내마음대로 정렬하기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="소수만들기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="수박수박수박수박수박수" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="숫자와 문자열과 영단어" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="체육복" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="콜라츠 추측" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="크레인 인형뽑기 게임" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="키패드 누르기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
-              <item name="level1" type="462c0819:PsiDirectoryNode" />
-              <item name="폰켓몬" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -508,17 +391,17 @@
     <frame x="761" y="0" width="782" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.35302013" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.5261745" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.31321838" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.31321838" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36637932" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15804598" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15804598" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2195122" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -1611,13 +1494,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1003_피보나치 함수/1003_피보나치함수(메모이제이션).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/시저암호/시저암호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1894,10 +1770,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/타겟 넘버/타겟 넘버.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
