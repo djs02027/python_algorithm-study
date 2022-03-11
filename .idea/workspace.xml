@@ -14,40 +14,40 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="70" />
+          <entry key="project.closed" value="71" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="16" />
           <entry key="project.open.time.4" value="23" />
           <entry key="project.open.time.5" value="17" />
           <entry key="project.open.time.6" value="10" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
-          <entry key="py" value="178" />
+          <entry key="py" value="216" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="179" />
+          <entry key="Python" value="217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="141" />
-          <entry key="py" value="29824" />
+          <entry key="py" value="30545" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="141" />
-          <entry key="Python" value="29824" />
+          <entry key="Python" value="30545" />
         </counts>
       </usages-collector>
     </session>
@@ -57,91 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1074_Z/1074_Z.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <marker date="1645533926545" expanded="true" signature="56:773" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/문자열 압축/문자열 압축.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/오픈채팅방/오픈채팅방.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/124나라의 숫자/124나라의 숫자.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/더 맵게/더 맵게.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1463_1로만들기/1463_1로 만들기.py">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/백준/DFS/BOJ4963/4963.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -172,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solve.ac/class 2/10816_숫자카드2/10816_숫자카드2.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/10816_숫자카드2/10816_숫자카드2(참고용2).py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/10828_스택/10828_스택.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/나머지가 1이 되는 수 찾기/나머지가 1이 되는 수 찾기.py" />
@@ -223,19 +142,21 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1463_1로만들기/1463_1로 만들기.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="930" />
+    <option name="x" value="951" />
     <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,19 +180,7 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1389_케빈베이컨의 6단계 법칙" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1463_1로만들기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="1541_잃어버린 괄호" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -287,28 +196,130 @@
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ1697" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="K번째의 수" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="다트 게임" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="로또의 최고 순위와 최저 순위" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="모의고사" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="문자열 내마음대로 정렬하기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="소수만들기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="수박수박수박수박수박수" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="숫자와 문자열과 영단어" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="체육복" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="콜라츠 추측" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="크레인 인형뽑기 게임" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="키패드 누르기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+              <item name="폰켓몬" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,28 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1463_1로 만들기">
-    <configuration name="1074_Z" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1074_Z" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1074_Z/1074_Z.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1541_잃어버린 괄호">
     <configuration name="1260_DFS와 BFS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -433,6 +423,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1541_잃어버린 괄호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4963" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -455,19 +466,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1074_Z" />
       <item itemvalue="Python.1260_DFS와 BFS" />
       <item itemvalue="Python.4963" />
       <item itemvalue="Python.1389_케빈베이컨의 6단계 법칙" />
       <item itemvalue="Python.1463_1로 만들기" />
+      <item itemvalue="Python.1541_잃어버린 괄호" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1541_잃어버린 괄호" />
         <item itemvalue="Python.1463_1로 만들기" />
         <item itemvalue="Python.1389_케빈베이컨의 6단계 법칙" />
         <item itemvalue="Python.1260_DFS와 BFS" />
         <item itemvalue="Python.4963" />
-        <item itemvalue="Python.1074_Z" />
       </list>
     </recent_temporary>
   </component>
@@ -494,20 +505,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="744" y="0" width="782" height="831" extended-state="0" />
+    <frame x="761" y="0" width="782" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.27651006" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.35302013" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.31420374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.31321838" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36637932" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15925394" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15804598" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2195122" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -516,19 +527,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.34408602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.3534946" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.3204023" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.37643677" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.31321838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36637932" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.16954023" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.15804598" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22126436" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2195122" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1600,181 +1611,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/같은 숫자는 싫어/같은 숫자는 싫어.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1018_체스판다시칠하기/1018_체스판다시칠하기O.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1436_영화감독숌/1436_영화감독.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1654_랜선자르기/1654_랜선자르기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/3진법 뒤집기/3진법 뒤집기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11651_좌표 정렬하기 2/11651_좌표 정렬하기 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/두 정수 사이의 합/두 정수 사이의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/나누어 떨어지는 숫자 배열/나누어 떨어지는 숫자 배열.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/부족한 금액 계산하기/부족한 금액 계산하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11650_좌표 정렬하기/11650_좌표 정렬하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/수박수박수박수박수박수/수박수박수박수박수박수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1085_직사각형에서 탈출/1085_직사각형에서 탈출.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/1259_팰린드롬수/1259_팰린드롬수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2231_분해합/2231_분해합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2292_벌집/2292_벌집.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2775_부녀회장이 될테야/2775_부녀회장이 될테야.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2798_블랙잭/2798_블랙잭.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2839_설탕 배달/2839_설탕 배달.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/콜라츠 추측/콜라츠 추측.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2869_달팽이는 올라가고 싶다/2869_달팽이는 올라가고 싶다(시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2869_달팽이는 올라가고 싶다/2869_달팽이는 올라가고 싶다.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/4153_직각삼각형/4153_직각삼각형.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/15829_Hashing/15829_Hashing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11050_이항정리/11050_이항정리.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1003_피보나치 함수/1003_피보나치함수(시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1003_피보나치 함수/1003_피보나치함수(메모이제이션).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1803,13 +1639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/기능개발/기능개발.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/멀쩡한 사각형/멀쩡한 사각형(시간초과).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1821,13 +1650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1849,13 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="823" selection-start-line="823" selection-end-line="823" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/멀쩡한 사각형/멀쩡한 사각형.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1890,30 +1705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/문자열 압축/문자열 압축.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/오픈채팅방/오픈채팅방.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/124나라의 숫자/124나라의 숫자.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/더 맵게/더 맵게.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1937,8 +1728,174 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1463_1로만들기/1463_1로 만들기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        <state relative-caret-position="300">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2292_벌집/2292_벌집.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2869_달팽이는 올라가고 싶다/2869_달팽이는 올라가고 싶다.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/2869_달팽이는 올라가고 싶다/2869_달팽이는 올라가고 싶다(시간초과).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="57" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11650_좌표 정렬하기/11650_좌표 정렬하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10828_스택/10828_스택.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10773_제로/10773_제로.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10814_나이순정렬/10814_나이순정렬.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10816_숫자카드2/10816_숫자카드2(참고용2).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10816_숫자카드2/10816_숫자카드2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10866_덱/10866_덱.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10989_수 정렬하기3/10989_수 정렬하기3 (해결).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10989_수 정렬하기3/10989_수 정렬하기3 (시간초과).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11050_이항정리/11050_이항정리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/더 맵게/더 맵게.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/문자열 압축/문자열 압축.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/오픈채팅방/오픈채팅방.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/124나라의 숫자/124나라의 숫자.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/기능개발/기능개발.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/멀쩡한 사각형/멀쩡한 사각형.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/체육복/체육복.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/폰켓몬/폰켓몬(통과).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/키패드 누르기/키패드누르기.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/콜라츠 추측/콜라츠 추측.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/수박수박수박수박수박수/수박수박수박수박수박수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/소수만들기/소수만들기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/모의고사/모의고사.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/K번째의 수/K번째의 수.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/숫자와 문자열과 영단어/숫자와 문자열과 영단어.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/크레인 인형뽑기 게임/크레인 인형뽑기 게임.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level1/다트 게임/다트게임.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1541_잃어버린 괄호/1541_잃어버린 괄호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
