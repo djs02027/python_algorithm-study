@@ -1,50 +1,63 @@
 import sys
 from collections import deque
 input=sys.stdin.readline
-dr=[-1,0,0,0]
-dc=[0,1,-1,1]
-def findfeed(shark):
-    for i in range(len(field)):
-        for j in range(len(field[i])):
-            if field[i][j]<shark and field[i][j]!=0 and field[i][j]!=9:
-                return True
-    return False
+dr=[-1,0,0,1]
+dc=[0,-1,1,0]
+
 def BFS(x,y):
-    global babyshark
+
     q=deque([[x,y]])
-    visited=set([(x,y)])
-    print(q)
-    print(visited)
-    eating=0
+    visited=[[x,y]]
     time=0
+    eating=0
+    eat_flag = False
     total=0
+    babyshark=2
     while q:
-        q = deque(sorted(q))
-        print(q)
-        print(visited)
-        now=q.popleft()
-        x,y=now[0],now[1]
-        if field[x][y]!=0 and field[x][y]!=9 and field[x][y]<babyshark:
-            eating+=1
+        # q = deque(sorted(q))
+        q = deque(sorted(q, key=lambda k: [k[1], k[0]]))
 
-            if eating==babyshark:
-                babyshark+=1
-                eating=0
+        qSize=len(q)
+        for _ in range(qSize):
+            now=q.popleft()
+            x,y=now[0],now[1]
 
-            # if not findfeed(babyshark):
-            #         return time
-            q=deque()
-            visited=set([x,y])
-            total = time
-        for i in range(len(dr)):
-            cx=x+dc[i]
-            cy=y+dr[i]
-            if 0<=cx<N and 0<=cy<N and (cx,cy) not in visited:
-                if field[cx][cy]<=babyshark:
-                    q.append([cx,cy])
-                    visited.add((cx,cy))
+            if 0<field[x][y]<babyshark:
+                field[x][y]=0
+                eating+=1
+                if eating==babyshark:
+                    babyshark+=1
+                    eating=0
 
-        print(time)
+
+                q=deque()
+                visited=[[x,y]]
+                total = time
+                eat_flag = True
+            # print(babyshark)
+            # print(eating)
+            #print(field)
+            print(now)
+            print(q)
+            # print(visited)
+            #
+            print(total)
+
+
+            for i in range(4):
+                cx=x+dr[i]
+                cy=y+dc[i]
+
+                if  0<=cx<N and 0<=cy<N and not [cx,cy] in visited:
+                    # print(cx, cy)
+                    if field[cx][cy] <= babyshark:
+                        q.append([cx,cy])
+                        visited.append([cx,cy])
+
+            if eat_flag:
+                eat_flag=False
+                break
+
 
         time+=1
     return total
@@ -53,14 +66,12 @@ def BFS(x,y):
 N=int(input().rstrip())
 field=[list(map(int,input().rstrip().split())) for _ in range(N)]
 
-babyshark=2
+
 start_x, start_y=0,0
 for i in range(len(field)):
     for j in range(len(field[i])):
         if field[i][j] == 9:
             start_x=i
             start_y=j
-if findfeed(babyshark):
-    print(BFS(start_x,start_y))
-else:
-    print(0)
+            field[i][j] = 0
+print(BFS(start_x,start_y))
