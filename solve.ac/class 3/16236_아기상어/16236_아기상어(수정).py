@@ -1,5 +1,5 @@
 import sys
-from heapq import heappop,heappush
+from collections import deque
 input=sys.stdin.readline
 dr=[-1,0,0,1]
 dc=[0,-1,1,0]
@@ -7,8 +7,7 @@ dc=[0,-1,1,0]
 def BFS(x,y):
     checkvisited = [[0 for _ in range(N)] for _ in range(N)]
     checkvisited[x][y]=0
-    q=[]
-    heappush(q,[x,y])
+    q=deque([[x,y]])
     visited=set([(x,y)])
 
     eating=0
@@ -18,7 +17,7 @@ def BFS(x,y):
     while q:
         # q = deque(sorted(q))
         #q = deque(sorted(q, key=lambda k: [k[1], k[0]]))
-        now=heappop(q)
+        now=q.popleft()
         x,y=now[0],now[1]
         if field[x][y]!=0 and field[x][y]<babyshark:
             field[x][y]=0
@@ -30,8 +29,8 @@ def BFS(x,y):
                 eating=0
 
 
-            while q:
-                q.pop()
+            q=deque()
+            # q = deque(sorted(q, key=lambda k: (k[0], k[1])\\\\\\))
             visited=set([(x,y)])
             total += checkvisited[x][y]
             checkvisited = [[0 for _ in range(N)] for _ in range(N)]
@@ -53,10 +52,13 @@ def BFS(x,y):
             if 0<=cx<N and 0<=cy<N and not (cx,cy)  in visited:
                 # print(cx, cy)
                 if field[cx][cy]<=babyshark:
-                    heappush(q, [cx, cy])
+                    q.append([cx,cy])
 
                     visited.add((cx,cy))
                     checkvisited[cx][cy]=checkvisited[x][y]+1
+
+
+
 
 
 
