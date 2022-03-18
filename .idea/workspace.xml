@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +18,12 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="17" />
-          <entry key="project.open.time.4" value="25" />
+          <entry key="project.open.time.4" value="26" />
           <entry key="project.open.time.5" value="19" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="79" />
+          <entry key="project.opened" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,13 +42,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="170" />
-          <entry key="py" value="35909" />
+          <entry key="py" value="36100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="170" />
-          <entry key="Python" value="35909" />
+          <entry key="Python" value="36100" />
         </counts>
       </usages-collector>
     </session>
@@ -56,11 +58,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="251">
+              <caret line="37" lean-forward="true" selection-end-line="68" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -68,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(수정).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+            <state relative-caret-position="464">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -170,11 +172,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="605" />
-    <option name="y" value="-22" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -276,15 +277,15 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\색칠하기" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\알고리즘 모각코\python_algorithm-study\모각코\프로그래머스\level2" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 2" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\모각코\프로그래머스\level1" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\특별한 정렬" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\이진탐색" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\색칠하기" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -300,27 +301,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.16236_아기상어(4번에러)">
-    <configuration name="1620_나는야 포켓몬 마스터 이다솜 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1620_나는야 포켓몬 마스터 이다솜" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1620_나는야 포켓몬 마스터 이다솜/1620_나는야 포켓몬 마스터 이다솜.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="16236_아기상어 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,7 +313,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(수정).py" />
+      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(4번_오답).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,7 +334,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(4번에러).py" />
+      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(해결).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,7 +355,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py" />
+      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(해결).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16236_아기상어(수정)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/16236_아기상어" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(4번_오답).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,19 +407,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1620_나는야 포켓몬 마스터 이다솜 (1)" />
       <item itemvalue="Python.1676_팩토리얼 0의 개수" />
       <item itemvalue="Python.16236_아기상어" />
       <item itemvalue="Python.16236_아기상어 (1)" />
       <item itemvalue="Python.16236_아기상어(4번에러)" />
+      <item itemvalue="Python.16236_아기상어(수정)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.16236_아기상어(4번에러)" />
+        <item itemvalue="Python.16236_아기상어(수정)" />
         <item itemvalue="Python.16236_아기상어 (1)" />
         <item itemvalue="Python.16236_아기상어" />
         <item itemvalue="Python.1676_팩토리얼 0의 개수" />
-        <item itemvalue="Python.1620_나는야 포켓몬 마스터 이다솜 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -445,19 +446,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.21017845" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" weight="0.42627347" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.3045977" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.3045977" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36494252" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25287357" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.2195122" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -1506,17 +1508,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py</url>
-          <line>21</line>
-          <option name="timeStamp" value="817" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py</url>
-          <line>22</line>
+          <line>20</line>
           <option name="timeStamp" value="818" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py</url>
-          <line>23</line>
+          <line>21</line>
           <option name="timeStamp" value="819" />
         </line-breakpoint>
       </breakpoints>
@@ -1815,16 +1812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/모각코/백준/BFS/BOJ1697/1697.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1834,8 +1821,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(수정).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        <state relative-caret-position="464">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번에러).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="37" lean-forward="true" selection-end-line="68" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>

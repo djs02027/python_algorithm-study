@@ -55,6 +55,7 @@ def BFS(x,y):
                     q.append([cx,cy])
 
                     visited.add((cx,cy))
+                    ### 이부분에 문제가 있었습니다.
                     checkvisited[cx][cy]=checkvisited[x][y]+1
 
 
