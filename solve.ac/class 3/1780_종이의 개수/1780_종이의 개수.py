@@ -1,26 +1,19 @@
+def cutting(n, m, len_N):
+    n1, n2, n3 = 0, 0, 0
+    for i in range(0, n, len_N):
+        for j in range(i, i + (len_N)):
+            for k in range(m, m + (len_N)):
+                print(j, k)
+        print("---")
+
+
 N = int(input())
 paper = [input().split() for _ in range(N)]
-len_N=N
-n1,n2,n3=-1,0,1
+len_N = N
+
 while True:
-
-    if N==1:
+    if len_N == 3:
         break
-    check=paper[0][0]
-    flag=False
-    for i in range(N):
-        for j in range(N):
-            if paper[i][j]!=check:
-                flag=True
-    if flag==True:
-        flag = False
-        N = N // 3
-        for i in range(0,len_N,N):
-            for k in range(i,i+N):
-                for j in range(i, i+N):
-                    print((i,j))
-
-
-
-
-
+    len_N = len_N // 3
+    for i in range(0, N, len_N):
+        cutting(N, i, len_N)
