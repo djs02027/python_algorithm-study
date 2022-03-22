@@ -14,16 +14,16 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="80" />
+          <entry key="project.closed" value="81" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="17" />
           <entry key="project.open.time.4" value="27" />
-          <entry key="project.open.time.5" value="19" />
+          <entry key="project.open.time.5" value="20" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="82" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -104,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -113,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/모각코/백준/BFS/BOJ1697/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -122,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2606_바이러스/2606_바이러스.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -231,7 +231,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
+    <option name="x" value="245" />
     <option name="y" value="-25" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -543,7 +543,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.32319894" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.32319894" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -553,7 +553,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21875" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -1878,6 +1878,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/백준/BFS/BOJ1697/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2606_바이러스/2606_바이러스.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1764_듣보잡/1764_듣보잡.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1895,38 +1923,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2606_바이러스/2606_바이러스.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/백준/BFS/BOJ1697/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

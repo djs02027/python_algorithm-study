@@ -11,6 +11,7 @@ N = int(input())
 paper = [input().split() for _ in range(N)]
 len_N = N
 
+#####
 while True:
     if len_N == 3:
         break
