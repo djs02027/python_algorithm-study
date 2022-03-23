@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,41 +16,41 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="81" />
+          <entry key="project.closed" value="82" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="17" />
           <entry key="project.open.time.4" value="27" />
-          <entry key="project.open.time.5" value="20" />
+          <entry key="project.open.time.5" value="21" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="84" />
+          <entry key="project.opened" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
           <entry key="py" value="246" />
-          <entry key="txt" value="8" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="184" />
-          <entry key="py" value="39598" />
+          <entry key="py" value="40171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="184" />
-          <entry key="Python" value="39598" />
+          <entry key="Python" value="40171" />
         </counts>
       </usages-collector>
     </session>
@@ -82,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="630">
+              <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -94,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="180">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -176,8 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/같은 숫자는 싫어/같은 숫자는 싫어.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/3진법 뒤집기/3진법 뒤집기.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/11651_좌표 정렬하기 2/11651_좌표 정렬하기 2.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py" />
@@ -225,14 +234,16 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/1697_숨바꼭질/1697_숨바꼭질.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1764_듣보잡/1764_듣보잡.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(수정).py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="245" />
-    <option name="y" value="-25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1050" />
+    <option name="y" value="28" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -241,6 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -355,7 +367,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,28 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1780_종이의 개수(수정)">
-    <configuration name="16236_아기상어(4번에러)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/16236_아기상어" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\16236_아기상어\16236_아기상어(해결).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1780_종이의 개수">
     <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -501,20 +491,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1780_종이의 개수(시간초과)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.16236_아기상어(4번에러)" />
       <item itemvalue="Python.1697_숨바꼭질" />
       <item itemvalue="Python.1764_듣보잡" />
       <item itemvalue="Python.1780_종이의 개수" />
       <item itemvalue="Python.1780_종이의 개수(수정)" />
+      <item itemvalue="Python.1780_종이의 개수(시간초과)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1780_종이의 개수(수정)" />
         <item itemvalue="Python.1780_종이의 개수" />
+        <item itemvalue="Python.1780_종이의 개수(시간초과)" />
+        <item itemvalue="Python.1780_종이의 개수(수정)" />
         <item itemvalue="Python.1764_듣보잡" />
         <item itemvalue="Python.1697_숨바꼭질" />
-        <item itemvalue="Python.16236_아기상어(4번에러)" />
       </list>
     </recent_temporary>
   </component>
@@ -541,19 +552,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.32319894" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.40860215" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.29829547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.2974138" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36363637" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25287357" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21875" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -1656,9 +1668,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10828_스택/10828_스택.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1878,13 +1887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1923,10 +1925,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="630">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
         </state>
       </provider>
     </entry>
