@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" afterDir="false" />
-    </list>
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +27,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
-          <entry key="py" value="248" />
+          <entry key="py" value="256" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="249" />
+          <entry key="Python" value="257" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="184" />
-          <entry key="py" value="41077" />
+          <entry key="py" value="41911" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="184" />
-          <entry key="Python" value="41077" />
+          <entry key="Python" value="41911" />
         </counts>
       </usages-collector>
     </session>
@@ -62,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
+            <state relative-caret-position="570">
               <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
             </state>
           </provider>
@@ -77,56 +74,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="27" selection-end-line="37" selection-end-column="10" />
+              <caret line="15" selection-end-line="37" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+              <folding>
+                <marker date="1648741953119" expanded="true" signature="421:423" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(해결).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="345">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번_오답).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/모각코/백준/BFS/BOJ1697/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2606_바이러스/2606_바이러스.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="690">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -180,7 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/나누어 떨어지는 숫자 배열/나누어 떨어지는 숫자 배열.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/두 정수 사이의 합/두 정수 사이의 합.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/1085_직사각형에서 탈출/1085_직사각형에서 탈출.py" />
@@ -231,12 +224,13 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="901" />
-    <option name="y" value="87" />
+    <option name="x" value="200" />
+    <option name="y" value="-9" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -268,7 +262,21 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1931_회의실 배정" type="462c0819:PsiDirectoryNode" />
+              <item name="1260_DFS와 BFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
+              <item name="class 3" type="462c0819:PsiDirectoryNode" />
+              <item name="2178_미로탐색" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
+              <item name="class 3" type="462c0819:PsiDirectoryNode" />
+              <item name="16236_아기상어" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -284,6 +292,27 @@
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="모각코" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="모각코" type="462c0819:PsiDirectoryNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ4963" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -329,28 +358,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1931_회의실 배정">
-    <configuration name="1764_듣보잡" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1764_듣보잡" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1764_듣보잡/1764_듣보잡.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2178_미로탐색">
     <configuration name="1780_종이의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -456,20 +464,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2178_미로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1764_듣보잡" />
       <item itemvalue="Python.1780_종이의 개수" />
       <item itemvalue="Python.1780_종이의 개수(수정)" />
       <item itemvalue="Python.1927_최소힙" />
       <item itemvalue="Python.1931_회의실 배정" />
+      <item itemvalue="Python.2178_미로탐색" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2178_미로탐색" />
         <item itemvalue="Python.1931_회의실 배정" />
         <item itemvalue="Python.1927_최소힙" />
         <item itemvalue="Python.1780_종이의 개수" />
         <item itemvalue="Python.1780_종이의 개수(수정)" />
-        <item itemvalue="Python.1764_듣보잡" />
       </list>
     </recent_temporary>
   </component>
@@ -499,7 +528,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" weight="0.7889785" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.23727693" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1591,6 +1620,41 @@
           <line>12</line>
           <option name="timeStamp" value="824" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="829" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="830" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="833" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="835" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="837" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="838" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="839" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1637,9 +1701,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10814_나이순정렬/10814_나이순정렬.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10816_숫자카드2/10816_숫자카드2(참고용2).py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1753,13 +1814,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1463_1로만들기/1463_1로 만들기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -1825,28 +1879,6 @@
     <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/오픈채팅방/오픈채팅방.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/백준/DFS/BOJ4963/4963.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(해결).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번_오답).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1906,17 +1938,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-end-line="37" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(해결).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번_오답).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/모각코/백준/DFS/BOJ4963/4963.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
+        <state relative-caret-position="570">
           <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="27" selection-end-line="37" selection-end-column="10" />
+        <state relative-caret-position="300">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <marker date="1648741953119" expanded="true" signature="421:423" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
