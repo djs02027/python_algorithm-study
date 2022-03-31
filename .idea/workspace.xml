@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,41 +15,41 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="85" />
+          <entry key="project.closed" value="87" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="17" />
-          <entry key="project.open.time.4" value="29" />
+          <entry key="project.open.time.4" value="31" />
           <entry key="project.open.time.5" value="22" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="88" />
+          <entry key="project.opened" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
-          <entry key="py" value="247" />
+          <entry key="py" value="248" />
           <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="248" />
+          <entry key="Python" value="249" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="184" />
-          <entry key="py" value="40622" />
+          <entry key="py" value="41077" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="184" />
-          <entry key="Python" value="40622" />
+          <entry key="Python" value="41077" />
         </counts>
       </usages-collector>
     </session>
@@ -59,34 +60,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번_오답).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="417">
               <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="34" lean-forward="true" selection-start-line="16" selection-end-line="34" />
-              <folding>
-                <element signature="e#275#287#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="27" selection-end-line="37" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -185,7 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/18111_마인크래프트/18111_마인크래프트.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/나누어 떨어지는 숫자 배열/나누어 떨어지는 숫자 배열.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/두 정수 사이의 합/두 정수 사이의 합.py" />
@@ -236,14 +230,15 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="901" />
+    <option name="y" value="87" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -273,7 +268,7 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1927_최소힙" type="462c0819:PsiDirectoryNode" />
+              <item name="1931_회의실 배정" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -334,28 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1927_최소힙">
-    <configuration name="1697_숨바꼭질" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1697_숨바꼭질" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1697_숨바꼭질/1697_숨바꼭질.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1931_회의실 배정">
     <configuration name="1764_듣보잡" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -461,20 +435,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1931_회의실 배정" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1697_숨바꼭질" />
       <item itemvalue="Python.1764_듣보잡" />
       <item itemvalue="Python.1780_종이의 개수" />
       <item itemvalue="Python.1780_종이의 개수(수정)" />
       <item itemvalue="Python.1927_최소힙" />
+      <item itemvalue="Python.1931_회의실 배정" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1931_회의실 배정" />
         <item itemvalue="Python.1927_최소힙" />
         <item itemvalue="Python.1780_종이의 개수" />
         <item itemvalue="Python.1780_종이의 개수(수정)" />
         <item itemvalue="Python.1764_듣보잡" />
-        <item itemvalue="Python.1697_숨바꼭질" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +499,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.19101124" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" weight="0.7889785" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1573,27 +1568,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>26</line>
+          <line>11</line>
           <option name="timeStamp" value="820" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>22</line>
+          <line>7</line>
           <option name="timeStamp" value="821" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>23</line>
+          <line>8</line>
           <option name="timeStamp" value="822" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>25</line>
+          <line>10</line>
           <option name="timeStamp" value="823" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>27</line>
+          <line>12</line>
           <option name="timeStamp" value="824" />
         </line-breakpoint>
       </breakpoints>
@@ -1642,9 +1637,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10773_제로/10773_제로.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 2/10814_나이순정렬/10814_나이순정렬.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1852,9 +1844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1910,20 +1899,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="417">
           <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1931_회의실 배정/1931_회의실 배정.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="34" lean-forward="true" selection-start-line="16" selection-end-line="34" />
-          <folding>
-            <element signature="e#275#287#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="27" selection-end-line="37" selection-end-column="10" />
         </state>
       </provider>
     </entry>
