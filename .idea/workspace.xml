@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(오답).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,26 +29,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
-          <entry key="py" value="264" />
+          <entry key="py" value="268" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="265" />
+          <entry key="Python" value="269" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="190" />
-          <entry key="py" value="45354" />
+          <entry key="py" value="46323" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="190" />
-          <entry key="Python" value="45354" />
+          <entry key="Python" value="46323" />
         </counts>
       </usages-collector>
     </session>
@@ -59,18 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/5439_AC/5439_AC.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,14 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="220">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="27" />
               <folding>
                 <marker date="1649511143293" expanded="true" signature="48:791" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -124,36 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="26" lean-forward="true" selection-end-line="27" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(4번_오답).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1764_듣보잡/1764_듣보잡.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1697_숨바꼭질/1697_숨바꼭질.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding>
-                <marker date="1647608727590" expanded="true" signature="47:747" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -186,11 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/solve.ac/class 2/2292_벌집/2292_벌집.py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 2/2775_부녀회장이 될테야/2775_부녀회장이 될테야.py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 2/2798_블랙잭/2798_블랙잭.py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 2/2839_설탕 배달/2839_설탕 배달.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/문자열 압축/문자열 압축.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/2869_달팽이는 올라가고 싶다/2869_달팽이는 올라가고 싶다.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/4153_직각삼각형/4153_직각삼각형.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 2/15829_Hashing/15829_Hashing.py" />
@@ -237,12 +198,17 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의개수(DP).py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(시간초과).py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/종이붙이기.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/괄호검사.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/괄호검사/괄호검사.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로/그래프의 경로.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="803" />
-    <option name="y" value="-16" />
+    <option name="x" value="759" />
+    <option name="y" value="-8" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -267,20 +233,44 @@
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1780_종이의 개수" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - Stack1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - Stack1" type="462c0819:PsiDirectoryNode" />
+              <item name="그래프 경로" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - Stack1" type="462c0819:PsiDirectoryNode" />
+              <item name="반복문자 지우기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 SW문제해결 기본 - Stack1" type="462c0819:PsiDirectoryNode" />
+              <item name="종이붙이기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -337,11 +327,11 @@
       <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\색칠하기" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - Stack1\괄호검사" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\2579_계단오르기" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\모각코\프로그래머스\level2" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 2" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\모각코\프로그래머스\level1" />
-      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\특별한 정렬" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -356,8 +346,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1780_종이의 개수(DP)">
-    <configuration name="1780_종이의 개수(DP)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.반복문자 지우기">
+    <configuration name="그래프의 경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -365,11 +355,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로/그래프의 경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2178_미로탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="반복문자 지우기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2178_미로탐색(재도전)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="괄호검사 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -407,11 +397,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/괄호검사" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색(재도전).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/괄호검사/괄호검사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,7 +410,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2579_계단오르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="종이붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -428,11 +418,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/종이붙이기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,7 +431,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5439_AC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="괄호검사" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -449,11 +439,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/5439_AC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/5439_AC/5439_AC.py" />
+      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - Stack1\괄호검사\괄호검사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,19 +453,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2178_미로탐색" />
-      <item itemvalue="Python.2178_미로탐색(재도전)" />
-      <item itemvalue="Python.5439_AC" />
-      <item itemvalue="Python.2579_계단오르기" />
-      <item itemvalue="Python.1780_종이의 개수(DP)" />
+      <item itemvalue="Python.종이붙이기" />
+      <item itemvalue="Python.괄호검사" />
+      <item itemvalue="Python.괄호검사 (1)" />
+      <item itemvalue="Python.그래프의 경로" />
+      <item itemvalue="Python.반복문자 지우기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1780_종이의 개수(DP)" />
-        <item itemvalue="Python.2579_계단오르기" />
-        <item itemvalue="Python.5439_AC" />
-        <item itemvalue="Python.2178_미로탐색(재도전)" />
-        <item itemvalue="Python.2178_미로탐색" />
+        <item itemvalue="Python.반복문자 지우기" />
+        <item itemvalue="Python.그래프의 경로" />
+        <item itemvalue="Python.괄호검사 (1)" />
+        <item itemvalue="Python.괄호검사" />
+        <item itemvalue="Python.종이붙이기" />
       </list>
     </recent_temporary>
   </component>
@@ -1683,34 +1673,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 2/11050_이항정리/11050_이항정리.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/더 맵게/더 맵게.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/문자열 압축/문자열 압축.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/124나라의 숫자/124나라의 숫자.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/모각코/프로그래머스/level2/기능개발/기능개발.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1955,13 +1917,6 @@
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의개수(DP).py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1985,11 +1940,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="220">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="27" />
           <folding>
             <marker date="1649511143293" expanded="true" signature="48:791" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1649515947389" expanded="true" signature="90:174" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로/그래프의 경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1649520872056" expanded="true" signature="35:140" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/괄호검사/괄호검사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
