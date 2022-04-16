@@ -1,3 +1,4 @@
+f
 def BFS(sx, sy):
     global cnt
     q = [sx, sy]

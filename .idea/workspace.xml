@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py" beforeDir="false" afterPath="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,42 +16,42 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="94" />
+          <entry key="project.closed" value="97" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="17" />
-          <entry key="project.open.time.4" value="33" />
-          <entry key="project.open.time.5" value="27" />
+          <entry key="project.open.time.3" value="18" />
+          <entry key="project.open.time.4" value="34" />
+          <entry key="project.open.time.5" value="28" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="98" />
+          <entry key="project.opened" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="PY" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="295" />
+          <entry key="py" value="312" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="296" />
+          <entry key="Python" value="313" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="204" />
-          <entry key="py" value="51354" />
+          <entry key="dummy" value="229" />
+          <entry key="py" value="52090" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="204" />
-          <entry key="Python" value="51354" />
+          <entry key="PLAIN_TEXT" value="229" />
+          <entry key="Python" value="52090" />
         </counts>
       </usages-collector>
     </session>
@@ -56,29 +60,55 @@
     <favorites_list name="스터디" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
-              <folding>
-                <marker date="1649949919552" expanded="true" signature="24:411" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+                  <folding>
+                    <marker date="1650100716440" expanded="true" signature="35:631" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_inplace.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="34" selection-start-line="34" selection-end-line="35" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,6 +128,7 @@
       <find>q</find>
       <find>visited</find>
       <find>print</find>
+      <find>arr</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,14 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/기능개발/기능개발.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level1/오픈채팅방/오픈채팅방.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/멀쩡한 사각형/멀쩡한 사각형(시간초과).py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼2.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/멀쩡한 사각형/멀쩡한 사각형.py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 3/1074_Z/1074_Z.py" />
-        <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/124나라의 숫자/124나라의 숫자.py" />
         <option value="$PROJECT_DIR$/모각코/프로그래머스/level2/더 맵게/더 맵게.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py" />
@@ -157,21 +180,28 @@
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소  합 - 브루트 포스/배열 최소 합.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로 - 리펙토링.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리 - 재귀.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/피자 굽기/피자 굽기.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py" />
+        <option value="$PROJECT_DIR$/개념정리 공부/KMP/KMP.py" />
+        <option value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_inplace.py" />
+        <option value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py" />
+        <option value="$PROJECT_DIR$/SWEA/Intermediate/lotto.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="638" />
+    <option name="x" value="497" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
-    <option name="height" value="1078" />
+    <option name="height" value="1075" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,36 +219,6 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
               <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - Queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - Queue" type="462c0819:PsiDirectoryNode" />
-              <item name="미로의 거리" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - Stack2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - Stack2" type="462c0819:PsiDirectoryNode" />
-              <item name="미로" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -241,18 +241,13 @@
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
-              <item name="스택" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="프로그래머스" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,11 +268,11 @@
       <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - LiST2\색칠하기" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\개념정리 공부\문자열 매칭" />
+      <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - Queue\미로의 거리" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\SWEA\Intermediate\파이썬 SW문제해결 기본 - Stack1\괄호검사" />
       <recent name="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\2579_계단오르기" />
-      <recent name="D:\알고리즘 모각코\python_algorithm-study\모각코\프로그래머스\level2" />
-      <recent name="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -292,70 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.미로의 거리- 리펙토링">
-    <configuration name="배열 최소 합 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소  합 - 브루트 포스" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소  합 - 브루트 포스/배열 최소 합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="배열 최소 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소 합" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소 합/배열 최소 합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="미로의 거리- 리펙토링" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.merge_sort_test">
     <configuration name="미로의 거리" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -398,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="회전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="KMP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -406,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/개념정리 공부/KMP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/개념정리 공부/KMP/KMP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -440,20 +372,104 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lotto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/lotto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort_inplace" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_inplace.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.배열 최소 합" />
-      <item itemvalue="Python.배열 최소 합 (1)" />
-      <item itemvalue="Python.회전" />
-      <item itemvalue="Python.미로의 거리" />
-      <item itemvalue="Python.미로의 거리- 리펙토링" />
+      <item itemvalue="Python.KMP" />
+      <item itemvalue="Python.merge_sort_inplace" />
+      <item itemvalue="Python.merge_sort" />
+      <item itemvalue="Python.merge_sort_test" />
+      <item itemvalue="Python.lotto" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.미로의 거리- 리펙토링" />
-        <item itemvalue="Python.미로의 거리" />
-        <item itemvalue="Python.회전" />
-        <item itemvalue="Python.배열 최소 합 (1)" />
-        <item itemvalue="Python.배열 최소 합" />
+        <item itemvalue="Python.merge_sort_test" />
+        <item itemvalue="Python.lotto" />
+        <item itemvalue="Python.merge_sort_inplace" />
+        <item itemvalue="Python.merge_sort" />
+        <item itemvalue="Python.KMP" />
       </list>
     </recent_temporary>
   </component>
@@ -488,12 +504,12 @@
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.2888165" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.3615635" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.28555918" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" visible="true" weight="0.35287732" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32681867" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.247557" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21824104" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
@@ -502,19 +518,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.20951751" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.1743941" />
       <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
       <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.30397728" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.36363637" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.2888165" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.3615635" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3275862" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32681867" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.247557" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2195122" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.21824104" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32471263" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1642,146 +1658,146 @@
           <option name="timeStamp" value="840" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>15</line>
           <option name="timeStamp" value="841" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>19</line>
           <option name="timeStamp" value="843" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>16</line>
           <option name="timeStamp" value="844" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>17</line>
           <option name="timeStamp" value="845" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>18</line>
           <option name="timeStamp" value="846" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <option name="timeStamp" value="847" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>2</line>
           <option name="timeStamp" value="848" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>4</line>
           <option name="timeStamp" value="849" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>5</line>
           <option name="timeStamp" value="850" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>10</line>
           <option name="timeStamp" value="853" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>12</line>
           <option name="timeStamp" value="854" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>13</line>
           <option name="timeStamp" value="855" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>14</line>
           <option name="timeStamp" value="856" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>8</line>
           <option name="timeStamp" value="857" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>9</line>
           <option name="timeStamp" value="858" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>7</line>
           <option name="timeStamp" value="859" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>6</line>
           <option name="timeStamp" value="860" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>20</line>
           <option name="timeStamp" value="861" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>21</line>
           <option name="timeStamp" value="862" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>23</line>
           <option name="timeStamp" value="863" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>24</line>
           <option name="timeStamp" value="864" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>25</line>
           <option name="timeStamp" value="865" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>27</line>
           <option name="timeStamp" value="866" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>31</line>
           <option name="timeStamp" value="869" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>29</line>
           <option name="timeStamp" value="870" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>30</line>
           <option name="timeStamp" value="871" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>26</line>
           <option name="timeStamp" value="872" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>22</line>
           <option name="timeStamp" value="873" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py</url>
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
           <line>32</line>
           <option name="timeStamp" value="874" />
         </line-breakpoint>
@@ -1839,6 +1855,121 @@
           <line>11</line>
           <option name="timeStamp" value="890" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="891" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="892" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="896" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="899" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="901" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="902" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="904" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="905" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="906" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="907" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="908" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="909" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="910" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="911" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="912" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="914" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="915" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="916" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1885,51 +2016,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1676_팩토리얼 0의 개수/1676_팩토리얼 0의 개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1620_나는야 포켓몬 마스터 이다솜/1620_나는야 포켓몬 마스터 이다솜(시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1620_나는야 포켓몬 마스터 이다솜/1620_나는야 포켓몬 마스터 이다솜.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1074_Z/1074_Z.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1107_리모컨/1107_리모컨.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/프로그래머스/level2/오픈채팅방/오픈채팅방.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -2030,13 +2116,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의개수(DP).py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/종이붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로/그래프의 경로.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -2055,13 +2134,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -2148,17 +2220,79 @@
     <entry file="file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로 - 재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리 - 재귀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <marker date="1649950120896" expanded="true" signature="24:411" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/Forth/Forth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/피자 굽기/피자 굽기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/종이붙이기/종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LiST2/특별한 정렬/특별한 정렬.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소  합 - 브루트 포스/배열 최소 합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <marker date="1649946821293" expanded="true" signature="38:394" ph="..." />
           </folding>
@@ -2167,42 +2301,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <marker date="1649941595127" expanded="true" signature="21:401" ph="..." />
-            <marker date="1649941595127" expanded="true" signature="506:613" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort1.py">
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/lotto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="58" lean-forward="true" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        <state relative-caret-position="30">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py">
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_inplace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="35" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로.py">
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="315">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리.py">
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding>
-            <marker date="1649949919552" expanded="true" signature="24:411" ph="..." />
+            <marker date="1650100716440" expanded="true" signature="35:631" ph="..." />
           </folding>
         </state>
       </provider>
