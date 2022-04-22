@@ -18,10 +18,10 @@ for tc in range(1, T + 1):
             if start < txt[t]:
                 idx = t
                 break
-
+        #해당 칸에 삽입
         txt[idx:idx]=arr
         # txt.insert((idx + cnt), a)
 
 
-
+    #배열을 [-10::]하면 뒤에서부터 10개를 잘라서 출력 해주고 [::-1] 한번 더해 주면 리버스..
     print('#{} {}'.format(tc, ' '.join(map(str, txt[-10:][::-1]))))
