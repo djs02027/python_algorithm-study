@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="104" />
+          <entry key="project.closed" value="105" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="18" />
@@ -31,26 +31,26 @@
         <counts>
           <entry key="PY" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="339" />
+          <entry key="py" value="344" />
           <entry key="txt" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="340" />
+          <entry key="Python" value="345" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="238" />
-          <entry key="py" value="55989" />
+          <entry key="py" value="56129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="238" />
-          <entry key="Python" value="55989" />
+          <entry key="Python" value="56129" />
         </counts>
       </usages-collector>
     </session>
@@ -61,14 +61,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state>
               <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
             </state>
           </provider>
@@ -101,13 +96,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="296">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 편집/수열 편집.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -271,14 +271,6 @@
               <item name="SWEA" type="462c0819:PsiDirectoryNode" />
               <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
               <item name="파이썬 SW문제해결 기본 - Linkend List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
-              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 SW문제해결 기본 - Linkend List" type="462c0819:PsiDirectoryNode" />
-              <item name="암호" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -554,20 +546,20 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83972603" visible="true" weight="0.2333113" />
-      <window_info id="Structure" order="1" sideWeight="0.16027397" side_tool="true" weight="0.113804005" />
-      <window_info id="Favorites" order="2" sideWeight="0.5007924" side_tool="true" weight="0.1548999" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.2333113" />
+      <window_info id="Structure" order="1" sideWeight="0.37636763" side_tool="true" weight="0.2333113" />
+      <window_info id="Favorites" order="2" sideWeight="0.37553647" side_tool="true" weight="0.2333113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.3380682" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" visible="true" weight="0.35085228" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.35085228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32681867" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3252841" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.21773289" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32399103" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.21732955" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32386363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -624,726 +616,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052-(2).py</url>
-          <line>25</line>
-          <option name="timeStamp" value="205" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052-(2).py</url>
-          <line>29</line>
-          <option name="timeStamp" value="221" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052-(2).py</url>
-          <line>30</line>
-          <option name="timeStamp" value="222" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052-(2).py</url>
-          <line>31</line>
-          <option name="timeStamp" value="223" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052-(2).py</url>
-          <line>32</line>
-          <option name="timeStamp" value="224" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="226" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="227" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="228" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="229" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="230" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="232" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="233" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="234" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="235" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="236" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="237" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="238" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="239" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="240" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="241" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1052/1052.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="243" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="306" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="307" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="308" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="314" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="315" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="316" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="317" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="318" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="319" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="320" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="321" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="322" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="323" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ12931/12931.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="326" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="332" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="333" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="334" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="335" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="336" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="337" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="338" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="339" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/괄호짝맞추기.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="340" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/스택구현연결리스트.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="341" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>47</line>
-          <option name="timeStamp" value="349" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="351" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="354" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="357" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>49</line>
-          <option name="timeStamp" value="359" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="360" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>52</line>
-          <option name="timeStamp" value="361" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>53</line>
-          <option name="timeStamp" value="362" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>54</line>
-          <option name="timeStamp" value="364" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="365" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="366" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>58</line>
-          <option name="timeStamp" value="367" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>60</line>
-          <option name="timeStamp" value="368" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="369" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="370" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>64</line>
-          <option name="timeStamp" value="372" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="373" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="374" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="375" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/계산기.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="376" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="384" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="385" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="386" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="387" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="388" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="389" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/스택/유효한괄호검사.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="390" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="410" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="411" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="413" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="414" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="415" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="416" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="417" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="418" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="419" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="420" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/BFS/BOJ1697/1697.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="421" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/재귀/BOJ10872/10872.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="422" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/재귀/BOJ10872/10872.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="423" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/재귀/BOJ10872/10872.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="425" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/재귀/BOJ10872/10872.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="427" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>15</line>
-          <option name="timeStamp" value="445" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>16</line>
-          <option name="timeStamp" value="446" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>17</line>
-          <option name="timeStamp" value="447" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>18</line>
-          <option name="timeStamp" value="448" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>20</line>
-          <option name="timeStamp" value="450" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>22</line>
-          <option name="timeStamp" value="451" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>21</line>
-          <option name="timeStamp" value="452" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>23</line>
-          <option name="timeStamp" value="453" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>19</line>
-          <option name="timeStamp" value="454" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/stack/BOJ2493/2493-(2).py</url>
-          <line>24</line>
-          <option name="timeStamp" value="480" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="481" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="482" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="484" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="491" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="492" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="493" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="494" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="495" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="496" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="497" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="498" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="499" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="500" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="506" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ18429/18429.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="507" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>15</line>
-          <option name="timeStamp" value="517" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>16</line>
-          <option name="timeStamp" value="518" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>17</line>
-          <option name="timeStamp" value="519" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>18</line>
-          <option name="timeStamp" value="520" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>30</line>
-          <option name="timeStamp" value="521" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>31</line>
-          <option name="timeStamp" value="522" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>33</line>
-          <option name="timeStamp" value="524" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>32</line>
-          <option name="timeStamp" value="525" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>20</line>
-          <option name="timeStamp" value="526" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>21</line>
-          <option name="timeStamp" value="527" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>23</line>
-          <option name="timeStamp" value="528" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>25</line>
-          <option name="timeStamp" value="529" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>26</line>
-          <option name="timeStamp" value="530" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>28</line>
-          <option name="timeStamp" value="531" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>35</line>
-          <option name="timeStamp" value="532" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>36</line>
-          <option name="timeStamp" value="534" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>37</line>
-          <option name="timeStamp" value="535" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>40</line>
-          <option name="timeStamp" value="536" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>38</line>
-          <option name="timeStamp" value="537" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>41</line>
-          <option name="timeStamp" value="538" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>42</line>
-          <option name="timeStamp" value="539" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>43</line>
-          <option name="timeStamp" value="540" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>44</line>
-          <option name="timeStamp" value="541" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/queue/BOJ17225/17225-(2).py</url>
-          <line>45</line>
-          <option name="timeStamp" value="542" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/backtracking/BOJ16938/16938.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="558" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="568" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="569" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="570" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="571" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="572" />
-        </line-breakpoint>
-        <line-breakpoint suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/백준/greedy/BOJ1700/1700.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="574" />
-        </line-breakpoint>
         <line-breakpoint suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/1101/BOJ1446/1446(2).py</url>
           <line>33</line>
@@ -1405,667 +677,68 @@
           <option name="timeStamp" value="606" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>3</line>
-          <option name="timeStamp" value="664" />
+          <option name="timeStamp" value="940" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="698" />
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="941" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="699" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="700" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="702" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="703" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="704" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="705" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="706" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="707" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="708" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="709" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="710" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="711" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="712" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - LIST1/전기버스/전기버스.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="713" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/2609_최대공약수와 최소공배수/2609_최대공약수와 최소공배수.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="714" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/2609_최대공약수와 최소공배수/2609_최대공약수와 최소공배수.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="716" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="717" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="718" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="719" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="720" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="721" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="723" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/9012_괄호/9012_괄호.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="724" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/10814_나이순정렬/10814_나이순정렬.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="725" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/10866_덱/10866_덱.py</url>
-          <option name="timeStamp" value="726" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/11866_요세푸스 문제0/11866_요세푸스 문제0.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="727" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 2/2839_설탕 배달/2839_설탕 배달.py</url>
-          <option name="timeStamp" value="728" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="768" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="769" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="771" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="772" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="773" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="774" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="777" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="778" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="779" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="780" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="781" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>4</line>
-          <option name="timeStamp" value="791" />
+          <option name="timeStamp" value="942" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="792" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="793" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="794" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="799" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="800" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1389_케빈베이컨의 6단계 법칙/1389_케빈베이컨의 6단계 법칙.py</url>
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>7</line>
-          <option name="timeStamp" value="815" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(해결).py</url>
-          <line>20</line>
-          <option name="timeStamp" value="818" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/16236_아기상어/16236_아기상어(해결).py</url>
-          <line>21</line>
-          <option name="timeStamp" value="819" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="820" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="821" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="822" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="823" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/1927_최소힙/1927_최소힙.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="824" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="829" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="830" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="833" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="835" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="837" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="838" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="839" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 3/5439_AC/5439_AC.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="840" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="841" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="843" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="844" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="845" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="846" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <option name="timeStamp" value="847" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="848" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="849" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="850" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="853" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="854" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="855" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="856" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="857" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="858" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="859" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="860" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="861" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="862" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="863" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="864" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>25</line>
-          <option name="timeStamp" value="865" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="866" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="869" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="870" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="871" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>26</line>
-          <option name="timeStamp" value="872" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="873" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="874" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="875" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="877" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="878" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="879" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="880" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="881" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <option name="timeStamp" value="882" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="885" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="887" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="888" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임 - 분할정복/토너먼트 카드게임.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="890" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="891" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="892" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="893" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="894" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="895" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="896" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="897" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="898" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>46</line>
-          <option name="timeStamp" value="899" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="901" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>51</line>
-          <option name="timeStamp" value="902" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="904" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="905" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="906" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="919" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="920" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="921" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="922" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="923" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="924" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="925" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="926" />
+          <option name="timeStamp" value="944" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>5</line>
-          <option name="timeStamp" value="927" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="928" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="929" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="934" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="935" />
+          <option name="timeStamp" value="945" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>8</line>
-          <option name="timeStamp" value="936" />
+          <option name="timeStamp" value="946" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="947" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="948" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="949" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>9</line>
-          <option name="timeStamp" value="937" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="938" />
+          <option name="timeStamp" value="950" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
           <line>1</line>
-          <option name="timeStamp" value="939" />
+          <option name="timeStamp" value="964" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py</url>
+          <option name="timeStamp" value="966" />
         </line-breakpoint>
       </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -2074,14 +747,14 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="tc" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>tc=2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>2</expression-string>
         <language-id>Python</language-id>
@@ -2136,27 +809,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(오답).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/반례.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" selection-end-line="27" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
@@ -2283,13 +935,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="825" selection-start-line="825" selection-end-line="825" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2369,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/프로그래머스/level2/메뉴 리뉴얼/메뉴 리뉴얼2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state>
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
@@ -2425,12 +1070,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="143">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="824" selection-start-line="824" selection-end-line="824" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 편집/수열 편집.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
