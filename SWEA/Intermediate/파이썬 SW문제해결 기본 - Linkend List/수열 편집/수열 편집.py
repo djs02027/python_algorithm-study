@@ -12,6 +12,7 @@ for tc in range(1,T+1):
             numbers.pop(int(txt[1]))
         elif txt[0]=='C':
             numbers[int(txt[1])]=int(txt[2])
+
     try:
         print('#{} {}'.format(tc,numbers[L]))
     except:
