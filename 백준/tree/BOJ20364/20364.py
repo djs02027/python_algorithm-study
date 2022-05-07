@@ -20,7 +20,7 @@ print(tree)
 stack=[0]
 visited=[0]*(N+1)
 
-### 시간초과...ㅠㅠ
+### 시간초과..
 for d in duck:
     for k,v in tree.items():
         for j in range(len(v)):
