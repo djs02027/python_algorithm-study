@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/tree/BOJ20364/20364.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준/tree/BOJ20364/20364.py" afterDir="false" />
-    </list>
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +12,7 @@
     <session id="-578956362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="113" />
+          <entry key="project.closed" value="114" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="18" />
@@ -162,10 +159,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1929" />
-    <option name="y" value="177" />
-    <option name="width" value="1220" />
-    <option name="height" value="865" />
+    <option name="x" value="2753" />
+    <option name="y" value="21" />
+    <option name="width" value="854" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -524,10 +521,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1929" y="177" width="1220" height="865" extended-state="0" />
-    <editor active="true" />
+    <frame x="2000" y="190" width="1220" height="865" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.29864636" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.29864636" />
       <window_info id="Structure" order="1" sideWeight="0.37636763" side_tool="true" weight="0.2333113" />
       <window_info id="Favorites" order="2" sideWeight="0.37553647" side_tool="true" weight="0.2333113" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -537,7 +533,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3252841" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30273974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30273974" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21732955" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32386363" />
