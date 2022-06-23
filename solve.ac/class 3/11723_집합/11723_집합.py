@@ -14,8 +14,6 @@ for _ in range(N):
             print(1)
         else:
             print(0)
-
-
     elif commendList[0] == 'remove':
         if int(commendList[1]) in S:
             S.remove(int(commendList[1]))
@@ -26,7 +24,8 @@ for _ in range(N):
             S.add(int(commendList[1]))
 
     elif commendList[0] == 'all':
-        pass
+        S.clear()
+        S = set([j for j in range(1, 21)])
 
     elif commendList[0] == 'empty':
         S = set()
