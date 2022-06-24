@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,106 +12,17 @@
     <favorites_list name="스터디" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/10026_적록색약/10026_적록색약.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11403_경로찾기/11403_경로찾기.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="418">
-                  <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11047_동전 0/11047_동전 0.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="220">
-                  <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11279_최대힙/11279_최대힙.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="264">
-                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-                  <folding>
-                    <element signature="e#0#12#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11723_집합/11723_집합.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2630_색종이 만들기/2630_색종이 만들기.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="176">
-                  <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(오답).py">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-594" />
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="572">
-                  <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="58" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-264" />
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수/11724_연결 요소의 개수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -146,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/괄호검사/괄호검사.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/그래프 경로/그래프의 경로.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack1/반복문자 지우기/반복문자 지우기.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/5525_IOIOI/5525_IOIOI.py" />
@@ -197,6 +105,7 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/11279_최대힙/11279_최대힙.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/11723_집합/11723_집합.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 3/2630_색종이 만들기/2630_색종이 만들기.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수/11724_연결 요소의 개수.py" />
       </list>
     </option>
   </component>
@@ -228,41 +137,6 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1260_DFS와 BFS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1620_나는야 포켓몬 마스터 이다솜" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="1780_종이의 개수" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="2178_미로탐색" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 3" type="462c0819:PsiDirectoryNode" />
-              <item name="2630_색종이 만들기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -334,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2630_색종이 만들기">
+  <component name="RunManager" selected="Python.11724_연결 요소의 개수">
     <configuration name="반복문자 지우기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -390,27 +264,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/숫자 추가/숫자 추가.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="10026_적록생약" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/10026_적록색약" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\알고리즘 모각코\python_algorithm-study\solve.ac\class 3\10026_적록색약\10026_적록색약.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,6 +335,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11724_연결 요소의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수/11724_연결 요소의 개수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2630_색종이 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -504,19 +378,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.10026_적록생약" />
       <item itemvalue="Python.11403_경로찾기" />
       <item itemvalue="Python.11279_최대힙" />
       <item itemvalue="Python.11723_집합" />
       <item itemvalue="Python.2630_색종이 만들기" />
+      <item itemvalue="Python.11724_연결 요소의 개수" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11724_연결 요소의 개수" />
         <item itemvalue="Python.2630_색종이 만들기" />
         <item itemvalue="Python.11723_집합" />
         <item itemvalue="Python.11279_최대힙" />
         <item itemvalue="Python.11403_경로찾기" />
-        <item itemvalue="Python.10026_적록생약" />
       </list>
     </recent_temporary>
   </component>
@@ -546,12 +420,12 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.20337197" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.20337197" />
       <window_info id="Structure" order="1" sideWeight="0.37636763" side_tool="true" weight="0.2333113" />
       <window_info id="Favorites" order="2" sideWeight="0.37553647" side_tool="true" weight="0.2333113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.35357916" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.35357916" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.34815618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -852,13 +726,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/피자 굽기/피자 굽기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1099,13 +966,6 @@
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1620_나는야 포켓몬 마스터 이다솜/1620_나는야 포켓몬 마스터 이다솜.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11723_집합/11723_집합.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1123,23 +983,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2630_색종이 만들기/2630_색종이 만들기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594" />
+        <state relative-caret-position="132">
+          <caret line="6" column="31" lean-forward="true" selection-end-line="25" selection-end-column="8" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(오답).py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1260_DFS와 BFS/1260_DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2178_미로탐색/2178_미로탐색.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(DP).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2630_색종이 만들기/2630_색종이 만들기.py">
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수/11724_연결 요소의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="352">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
