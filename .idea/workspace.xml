@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -54,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/Forth/Forth(런타임에러).py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/Forth/Forth.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/토너먼트 카드게임/토너먼트 카드게임.py" />
@@ -105,11 +109,13 @@
         <option value="$PROJECT_DIR$/solve.ac/class 3/11726_2Xn타일링/11726_2Xn타일링.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말2.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="540" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -213,28 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1043_거짓말">
-    <configuration name="숫자 추가" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/숫자 추가" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/숫자 추가/숫자 추가.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1167_트리의 지름">
     <configuration name="1043_거짓말" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11724_연결 요소의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1167_트리의 지름" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 3/11724_연결 요소의 개수/11724_연결 요소의 개수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,20 +326,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.숫자 추가" />
-      <item itemvalue="Python.11724_연결 요소의 개수" />
       <item itemvalue="Python.11399_ATM" />
       <item itemvalue="Python.18870_좌표 압축" />
       <item itemvalue="Python.11726_2Xn타일링" />
       <item itemvalue="Python.1043_거짓말" />
+      <item itemvalue="Python.1167_트리의 지름" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1167_트리의 지름" />
         <item itemvalue="Python.1043_거짓말" />
         <item itemvalue="Python.11726_2Xn타일링" />
         <item itemvalue="Python.18870_좌표 압축" />
         <item itemvalue="Python.11399_ATM" />
-        <item itemvalue="Python.11724_연결 요소의 개수" />
       </list>
     </recent_temporary>
   </component>
@@ -381,16 +365,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.28311965" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.13962065" />
       <window_info id="Structure" order="1" sideWeight="0.37636763" side_tool="true" weight="0.2333113" />
       <window_info id="Favorites" order="2" sideWeight="0.37553647" side_tool="true" weight="0.2333113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.3483023" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.347207" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.34815618" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.3438178" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3252841" />
@@ -698,6 +682,11 @@
           <url>file://$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py</url>
           <line>28</line>
           <option name="timeStamp" value="1003" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1004" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1061,7 +1050,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
