@@ -1,3 +1,7 @@
+#BFS는 최단거리를 찾자마자 종료할 수 있다.
+#하지만 DFS는 모든 경로를 검색해 봐야 한다.
+
+
 from collections import deque
 
 moveCol = [1, -1, 0, 0]
