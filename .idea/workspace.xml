@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/스터디.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/스터디.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py" beforeDir="false" afterPath="$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티_시간초과.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,69 +21,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700-(2).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/개념정리 공부/다익스트라/다익스트라_array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-163">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="57" column="6" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/개념정리 공부/다익스트라/input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="27" />
+            <state relative-caret-position="144">
+              <caret line="16" column="15" lean-forward="true" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -111,6 +64,7 @@
       <find>open</find>
       <find>visited</find>
       <find>utf</find>
+      <find>start</find>
     </findStrings>
     <dirStrings>
       <dir>D:\파이썬 알고 문제\python_algorithm-study</dir>
@@ -122,8 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소 합/배열 최소 합.py" />
-        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/배열 최소  합 - 브루트 포스/배열 최소 합.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/회전/회전.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로 - 리펙토링.py" />
@@ -169,16 +121,17 @@
         <option value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말2.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" />
-        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="2" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -187,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,14 +163,32 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 4" type="462c0819:PsiDirectoryNode" />
-              <item name="1043_거짓말" type="462c0819:PsiDirectoryNode" />
+              <item name="1167_트리의 지름" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 4" type="462c0819:PsiDirectoryNode" />
-              <item name="1238_파티" type="462c0819:PsiDirectoryNode" />
+              <item name="1504_특정한 최단 경로" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
+              <item name="class 4" type="462c0819:PsiDirectoryNode" />
+              <item name="2206_벽 부수고 이동하기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="SWEA" type="462c0819:PsiDirectoryNode" />
+              <item name="Intermediate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -234,6 +204,51 @@
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="문자열 매칭" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="문자열 매칭" type="462c0819:PsiDirectoryNode" />
+              <item name="KMP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="분할 정복" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="분할 정복" type="462c0819:PsiDirectoryNode" />
+              <item name="합병정렬" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="스택" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="재귀" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="개념정리 공부" type="462c0819:PsiDirectoryNode" />
+              <item name="재귀" type="462c0819:PsiDirectoryNode" />
+              <item name="BOJ10872" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="백준" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,26 +261,18 @@
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="Gold" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="백준" type="462c0819:PsiDirectoryNode" />
-              <item name="Gold" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
-              <item name="BOJ1700_멀티탭 스케줄링" type="462c0819:PsiDirectoryNode" />
+              <item name="Silver" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -300,50 +307,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1238_파티">
-    <configuration name="1043_거짓말" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1167_트리의 지름" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1238_파티" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1504_특정한 최단 경로">
+    <configuration name="1238_파티 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2206_벽 부수고 이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1238_파티" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -372,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1238_파티" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py" />
+      <option name="SCRIPT_NAME" value="D:\파이썬 알고 문제\python_algorithm-study\solve.ac\class 4\1238_파티\1238_파티_시간초과.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="다익스트라_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1504_특정한 최단 경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -393,11 +358,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/개념정리 공부/다익스트라" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/개념정리 공부/다익스트라/다익스트라_array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,20 +371,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.1043_거짓말" />
-      <item itemvalue="Python.1167_트리의 지름" />
-      <item itemvalue="Python.2206_벽 부수고 이동하기" />
-      <item itemvalue="Python.1238_파티" />
-      <item itemvalue="Python.다익스트라_array" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1504_특정한 최단 경로" />
+        <item itemvalue="Python.1238_파티 (1)" />
         <item itemvalue="Python.1238_파티" />
-        <item itemvalue="Python.다익스트라_array" />
-        <item itemvalue="Python.2206_벽 부수고 이동하기" />
-        <item itemvalue="Python.1167_트리의 지름" />
-        <item itemvalue="Python.1043_거짓말" />
       </list>
     </recent_temporary>
   </component>
@@ -446,23 +402,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="2" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6244635" visible="true" weight="0.28311965" />
-      <window_info id="Structure" order="1" sideWeight="0.37636763" side_tool="true" weight="0.2333113" />
-      <window_info id="Favorites" order="2" sideWeight="0.37553647" side_tool="true" weight="0.2333113" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.61577183" visible="true" weight="0.2767094" />
+      <window_info id="Structure" order="1" sideWeight="0.3842282" side_tool="true" visible="true" weight="0.2767094" />
+      <window_info id="Favorites" order="2" sideWeight="0.38273615" side_tool="true" weight="0.20969442" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.3483023" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49893162" weight="0.34173056" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.347207" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49841937" weight="0.3340564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3252841" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29572836" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5029742" side_tool="true" weight="0.28125" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49789253" weight="0.324295" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.19715224" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015806" side_tool="true" weight="0.3383948" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21691974" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32321042" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32321042" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -854,76 +810,6 @@
           <line>16</line>
           <option name="timeStamp" value="1042" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="1046" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="1047" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="1048" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="1050" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="1051" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>36</line>
-          <option name="timeStamp" value="1052" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>38</line>
-          <option name="timeStamp" value="1053" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>31</line>
-          <option name="timeStamp" value="1054" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="1055" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>43</line>
-          <option name="timeStamp" value="1056" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="1057" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>44</line>
-          <option name="timeStamp" value="1058" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>53</line>
-          <option name="timeStamp" value="1060" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="1061" />
-        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -995,85 +881,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/프로그래머스/level2/짝지어 제거하기/짝지어 제거하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준/tree/BOJ1068/1068.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/이진탐색/이진탐색_비교.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/암호/암호.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 편집/수열 편집.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Linkend List/수열 합치기/수열 합치기 (시간초과).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/subtree/subtree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="41" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 3/7576_토마토/7576_토마토.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/이진탐색/이진탐색.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/프로그래머스/level2/메뉴 리뉴얼/메뉴리뉴얼(정답).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/이진힙/이진힙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/이진힙/이진힙(heapq).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Tree/노드의 합/노드의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/백준/tree/BOJ20364/20364.py" />
     <entry file="file://$PROJECT_DIR$/백준/tree/BOJ20364/input.txt" />
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py">
@@ -1222,65 +1029,7 @@
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/1780_종이의 개수/1780_종이의 개수(오답).py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700-(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/개념정리 공부/다익스트라/input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="396" column="20" selection-start-line="396" selection-start-column="20" selection-end-line="396" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.properties" />
     <entry file="file://$PROJECT_DIR$/개념정리 공부/다익스트라/다익스트라_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-163">
@@ -1288,12 +1037,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="57" column="6" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        <state relative-caret-position="85">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/다익스트라/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1043_거짓말/1043_거짓말.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="392" selection-start-line="392" selection-end-line="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700-(2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티_시간초과.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="45" column="37" lean-forward="true" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/재귀/순열_재귀1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/재귀/순열_for문2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/재귀/순열_for문1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/재귀/순열 재귀2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort_inplace.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/분할 정복/합병정렬/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/개념정리 공부/문자열 매칭/KMP/KMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1167_트리의 지름/1167_트리의 지름.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/2206_벽 부수고 이동하기/2206_벽 부수고 이동하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="15" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
