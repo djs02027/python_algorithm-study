@@ -9,7 +9,7 @@ import heapq
 INF = int(1e9)
 
 
-def dikjestra(start):
+def dikjstra(start):
     distance = [INF] * (N + 1)
     distance[start] = 0
     heap = []
@@ -33,7 +33,7 @@ for _ in range(E):
     grape[e].append((s, v))
 u, v = map(int, input().split())
 
-root = dikjestra(1)[u] + dikjestra(u)[v] + dikjestra(v)[N]
-backroot = dikjestra(1)[v] + dikjestra(v)[u] + dikjestra(u)[N]
+root = dikjstra(1)[u] + dikjstra(u)[v] + dikjstra(v)[N]
+backroot = dikjstra(1)[v] + dikjstra(v)[u] + dikjstra(u)[N]
 result = min(root, backroot)
 print(-1 if INF <= result else result)
