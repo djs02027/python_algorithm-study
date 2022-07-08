@@ -15,52 +15,35 @@
     <favorites_list name="스터디" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret line="13" selection-start-line="13" selection-end-line="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1753_최단경로/1753_최단경로.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="396">
-                  <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1753_최단경로/1753_최단경로.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1865_웜홀/1865_웜홀.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="14" column="26" selection-end-line="43" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Stack2/미로/미로 - 리펙토링.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리 - 재귀.py" />
         <option value="$PROJECT_DIR$/SWEA/Intermediate/파이썬 SW문제해결 기본 - Queue/미로의 거리/미로의 거리- 리펙토링.py" />
@@ -147,14 +129,14 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py" />
-        <option value="$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py" />
         <option value="$PROJECT_DIR$/solve.ac/class 4/1753_최단경로/1753_최단경로.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py" />
+        <option value="$PROJECT_DIR$/solve.ac/class 4/1865_웜홀/1865_웜홀.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="7" />
-    <option name="y" value="3" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -186,13 +168,6 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 4" type="462c0819:PsiDirectoryNode" />
-              <item name="1238_파티" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
-              <item name="class 4" type="462c0819:PsiDirectoryNode" />
               <item name="1504_특정한 최단 경로" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,7 +175,7 @@
               <item name="python_algorithm-study" type="462c0819:PsiDirectoryNode" />
               <item name="solve.ac" type="462c0819:PsiDirectoryNode" />
               <item name="class 4" type="462c0819:PsiDirectoryNode" />
-              <item name="2206_벽 부수고 이동하기" type="462c0819:PsiDirectoryNode" />
+              <item name="1753_최단경로" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -330,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1753_최단경로">
+  <component name="RunManager" selected="Python.1865_웜홀">
     <configuration name="1238_파티 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -415,8 +390,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1865_웜홀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/solve.ac/class 4/1865_웜홀" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solve.ac/class 4/1865_웜홀/1865_웜홀.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1865_웜홀" />
         <item itemvalue="Python.1753_최단경로" />
         <item itemvalue="Python.1504_특정한 최단 경로" />
         <item itemvalue="Python.1238_파티 (1)" />
@@ -447,20 +444,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.61455524" visible="true" weight="0.13645943" />
-      <window_info id="Structure" order="1" sideWeight="0.38544473" side_tool="true" visible="true" weight="0.13645943" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7844475" visible="true" weight="0.2767094" />
+      <window_info id="Structure" order="1" sideWeight="0.21555252" side_tool="true" weight="0.2767094" />
       <window_info id="Favorites" order="2" sideWeight="0.38273615" side_tool="true" weight="0.20969442" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.347207" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49786323" visible="true" weight="0.347207" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49841937" weight="0.3340564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49789253" weight="0.324295" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.19522777" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.19693655" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015806" side_tool="true" weight="0.3383948" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21691974" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32321042" />
@@ -926,7 +923,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/백준/tree/BOJ20364/input.txt" />
     <entry file="file://$PROJECT_DIR$/solve.ac/class 3/2579_계단오르기/2579_계단오르기.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1184,20 +1180,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1238_파티/1238_파티.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1207,8 +1189,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1753_최단경로/1753_최단경로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="6">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1504_특정한 최단 경로/1504_특정한 최단 경로.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/Gold/1/BOJ1700_멀티탭 스케줄링/1700.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solve.ac/class 4/1865_웜홀/1865_웜홀.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="14" column="26" selection-end-line="43" selection-end-column="19" />
         </state>
       </provider>
     </entry>

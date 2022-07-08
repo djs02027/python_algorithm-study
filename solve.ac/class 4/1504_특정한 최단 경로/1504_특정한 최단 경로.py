@@ -28,6 +28,7 @@ N, E = map(int, input().split())
 grape = [[] for _ in range(N + 1)]
 for _ in range(E):
     s, e, v = map(int, input().split())
+    #방향성이 없는 그래프이면 반대의 경우도 넣어야한다.
     grape[s].append((e, v))
     # 한번 이동했던 정점은 물론, 한번 이동했던 간선도 다시 이동할 수 있다
     grape[e].append((s, v))
