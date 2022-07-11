@@ -15,6 +15,9 @@ def BellmanFord(start):
                 # 다음 노드로 이동하는 거리가 최단거리로 갱신가능한 경우
                 if  distance[next] > distance[i] + cost:
                     distance[next] = cost + distance[i]
+                    # (정점의 개수 - 1)번까지 계속 업데이트가 발생했을 경우
+                    # (정점의 개수)번도 업데이트 발생하면 음수 사이클이 일어난 것을 의미함.
+                    #V - 1개의 간선보다 더 많은 간선을 통해 최단경로를 구할 수 있다면 음의 사이클이 존재한다고 판단
                     if k == N:
                         return True
     return False
