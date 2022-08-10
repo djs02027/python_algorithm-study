@@ -33,6 +33,7 @@ while q:
 
         elif oplist[i - 1] == '//':
             if now < 0:
+                #나누는 두 수의 부호가 같으면 몫이 양수, 다르면 몫이 음수가 된다.
                 now = -(abs(now) // numbers[i])
             else:
                 now = now // numbers[i]
