@@ -1,8 +1,9 @@
 def DFS(step, total):
     global add, sub, mul, div, minv, maxv
     if step == N:
-        minv = min(minv, total)
         maxv = max(maxv, total)
+        minv = min(minv, total)
+        return
     else:
         if add > 0:
             add -= 1
@@ -18,7 +19,7 @@ def DFS(step, total):
             mul += 1
         if div > 0:
             div -= 1
-            DFS(step + 1, total // numbers[step])
+            DFS(step + 1, int(total / numbers[step]))
             div += 1
 
 
