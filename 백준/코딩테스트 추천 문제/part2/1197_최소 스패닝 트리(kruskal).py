@@ -34,10 +34,10 @@ for i in range(E):
     graph.append((cost, s, e))
 
 graph.sort()
-total=0
+total = 0
 for i in range(E):
     cost, s, e = graph[i]
-    if findParent(parents,s)!=findParent(parents,e):
-        unionParent(parents,s,e)
-        total+=cost
+    if findParent(parents, s) != findParent(parents, e):
+        unionParent(parents, s, e)
+        total += cost
 print(total)
