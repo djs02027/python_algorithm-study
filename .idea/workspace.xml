@@ -14,12 +14,21 @@
     <favorites_list name="스터디" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/3085_사탕게임.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/2293_동전1.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -67,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py" />
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part1/2309_일곱난쟁이.py" />
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part1/2609_최대공약수와 최소공배수.py" />
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part1/2693_N번째 큰 수.py" />
@@ -118,6 +126,7 @@
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part2_복습/2252_줄세우기(topology_sort).py" />
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1789_수들의합.py" />
         <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/3085_사탕게임.py" />
+        <option value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/2293_동전1.py" />
       </list>
     </option>
   </component>
@@ -131,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,7 +175,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,28 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3085_사탕게임">
-    <configuration name="1197_최소 스패닝 트리(Kruskal)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="스터디" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part2_복습" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/part2_복습/1197_최소 스패닝 트리(Kruskal).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2293_동전1">
     <configuration name="16916_부분 문자열(KMP)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,6 +278,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2293_동전1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="스터디" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/2293_동전1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2667_단지번호붙이기(BFS)" type="PythonConfigurationType" factoryName="Python">
       <module name="스터디" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2293_동전1" />
         <item itemvalue="Python.3085_사탕게임" />
         <item itemvalue="Python.1789_수들의합" />
         <item itemvalue="Python.2252_줄세우기" />
         <item itemvalue="Python.16916_부분 문자열(KMP)" />
-        <item itemvalue="Python.1197_최소 스패닝 트리(Kruskal)" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +387,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49789253" weight="0.3242059" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.2932862" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.2924425" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5024975" side_tool="true" weight="0.33296824" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21686748" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32212582" />
@@ -1926,13 +1935,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/part1/2693_N번째 큰 수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/part1/2460_지능형 기차2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -2267,8 +2269,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/3085_사탕게임.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/2293_동전1.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
