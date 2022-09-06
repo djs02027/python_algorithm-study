@@ -20,6 +20,8 @@ def find(length, n):
     return str(j) + find(length - 1, n - last_count)
 
 
+
+
 N=int(input())
 dp=[[0]*10 for _ in range(11)]
 # 9876543210 10자리이므로 11까지..

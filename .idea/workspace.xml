@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72c7b874-2007-4191-9f2c-490c62c9b93a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,20 +70,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="306">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수_DP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="126">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -442,17 +440,17 @@
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7844475" visible="true" weight="0.3707265" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7844475" visible="true" weight="0.3707265" />
       <window_info id="Structure" order="1" sideWeight="0.21555252" side_tool="true" weight="0.2767094" />
       <window_info id="Favorites" order="2" sideWeight="0.38273615" side_tool="true" weight="0.20969442" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33187294" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49786323" weight="0.19386637" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4975025" visible="true" weight="0.3242059" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4975025" weight="0.3242059" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49789253" weight="0.3242059" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.2924425" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.2924425" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5024975" side_tool="true" weight="0.33296824" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.21686748" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49894625" weight="0.32212582" />
@@ -2427,17 +2425,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수_DP.py">
+    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="306">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수.py">
+    <entry file="file://$PROJECT_DIR$/백준/코딩테스트 추천 문제/알고리즘 다지기 기초 백준문제/1038_감소하는수_DP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="126">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
